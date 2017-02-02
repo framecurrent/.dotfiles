@@ -1,0 +1,44 @@
+[general]
+ui = blinkenlights
+accounts = work
+pythonfile = ~/.mutt/offlineimap.py
+fsync = False
+maxsyncaccounts = 6
+
+[Account work]
+localrepository = work-Local
+remoterepository = work-Remote
+status_backend = sqlite
+postsynchook = notmuch new
+
+# work ----------------------------------------------------------------
+[Repository work-Local]
+type = Maildir
+localfolders = ~/.mail/work
+nametrans = lambda folder: {'INBOX':   'Inbox',
+                            'drafts':  'Drafts',
+                            'sent':    'Sent Items',
+                            'trash':   'Deleted Items',
+                            'archive': 'Archive',
+                            }.get(folder, folder)
+
+[Repository work-Remote]
+maxconnections = 3
+type = IMAP
+ssl = yes
+sslcacertfile = /Volumes/Macintosh HD/usr/local/etc/openssl/osx_cert.pem
+remoteuser = 
+remotehost = 
+ssl = yes
+remotepasseval = get_pass('')
+realdelete = no
+nametrans = lambda folder: {'Inbox':         'INBOX',
+                            'Drafts':        'drafts',
+                            'Sent Items':    'sent',
+                            'Deleted Items': 'trash',
+                            'Archive':       'archive',
+                            'Junk E-Mail':   'spam',
+                            }.get(folder, folder)
+folderfilter = lambda folder: folder not in ['Junk E-Mail', 'Calendar', 'Notes', 'Contacts', 'Deleted Items.dox', 'Journal', 'Outbox', 'Tasks',]
+
+

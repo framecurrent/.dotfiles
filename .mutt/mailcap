@@ -1,0 +1,71 @@
+#!/bin/bash
+
+# MS Word documents
+application/msword; ~/.mutt/view_attachment.sh %s "-" '/Applications/Microsoft Office 2011/Microsoft Word.app'
+application/vnd.openxmlformats-officedocument.wordprocessingml.document; ~/.mutt/view_attachment.sh %s "-" '/Applications/Microsoft Office 2011/Microsoft Word.app'
+application/vnd.openxmlformats-officedocument.wordprocessingml.template; ~/.mutt/view_attachment.sh %s "-" '/Applications/Microsoft Office 2011/Microsoft Word.app' 
+application/octet-stream; ~/.mutt/view_attachment.sh %s "-" '/Applications/Microsoft Office 2011/Microsoft Word.app' 
+
+# MS Excel documents
+application/vnd.ms-excel; ~/.mutt/view_attachment.sh %s "-" '/Applications/Microsoft Office 2011/Microsoft Excel.app'
+application/excel; ~/.mutt/view_attachment.sh %s "-" '/Applications/Microsoft Office 2011/Microsoft Excel.app'
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; ~/.mutt/view_attachment.sh %s "-" '/Applications/Microsoft Office 2011/Microsoft Excel.app'
+application/vnd.ms-excel.sheet.binary.macroenabled.12; ~/.mutt/view_attachment.sh %s "-" '/Applications/Microsoft Office 2011/Microsoft Excel.app'
+application/x-msexcel; ~/.mutt/view_attachment.sh %s "-" '/Applications/Microsoft Office 2011/Microsoft Excel.app'
+
+# MS Powerpoint documents
+application/vnd.ms-powerpoint; ~/.mutt/view_attachment.sh %s "-"
+application/vnd.openxmlformats-officedocument.presentationml.presentation; ~/.mutt/view_attachment.sh %s "-" '/Applications/Microsoft Office 2011/Microsoft Powerpoint.app'
+
+# Plain text
+text/plain; ~/.mutt/view_attachment.sh %s txt
+text/rtf; ~/.mutt/view_attachment.sh %s rtf
+
+# odt-files
+application/vnd.oasis.opendocument.text; ~/.mutt/view_attachment.sh %s odt
+
+# ChemDraw files
+chemical/x-cdxml; ~/.mutt/view_attachment.sh %s cdxml
+chemical/x-cdx; ~/.mutt/view_attachment.sh %s cdx
+# application/octet-stream; ~/.mutt/view_attachment.sh %s cdx
+
+# Images
+image/jpg; ~/.mutt/view_attachment.sh %s jpg
+image/jpeg; ~/.mutt/view_attachment.sh %s jpg
+image/pjpeg; ~/.mutt/view_attachment.sh %s jpg
+image/png; ~/.mutt/view_attachment.sh %s png
+image/x-png; ~/.mutt/view_attachment.sh %s png
+image/gif; ~/.mutt/view_attachment.sh %s gif
+image/tif; ~/.mutt/view_attachment.sh %s tif
+image/tiff; ~/.mutt/view_attachment.sh %s tiff
+image/pdf; ~/.mutt/view_attachment.sh %s pdf
+image/bmp; ~/.mutt/view_attachment.sh %s bmp
+
+# PDFs
+application/download; ~/.mutt/view_attachment.sh %s pdf
+application/pdf; ~/.mutt/view_attachment.sh %s pdf
+document/pdf; ~/.mutt/view_attachment.sh %s pdf
+application%22%22/pdf; ~/.mutt/view_attachment.sh %s pdf
+xls/csv; ~/.mutt/view_attachment.sh %s pdf
+text/csv; ~/.mutt/view_attachment.sh %s pdf
+application/x-download; ~/.mutt/view_attachment.sh %s pdf
+application/applefile; ~/.mutt/view_attachment.sh %s pdf
+application/binary; ~/.mutt/view_attachment.sh %s pdf
+application/force-download; ~/.mutt/view_attachment.sh %s pdf
+
+# HTML
+text/html; ~/.mutt/view_attachment.sh %s html
+# text/html; elinks %s; nametemplate=%s.html
+text/html; w3m -dump %s; nametemplate=%s.html; copiousoutput
+
+# Video
+video/mp4;  ~/.mutt/view_attachment.sh %s mp4
+
+# compressed files
+application/x-zip-compressed; ~/.mutt/view_attachment.sh %s zip
+application/zip; ~/.mutt/view_attachment.sh %s zip
+application/x-rar-compressed; ~/.mutt/view_attachment.sh %s rar
+
+# Unidentified files
+application/octet-stream; ~/.mutt/view_attachment.sh %s "-"
+

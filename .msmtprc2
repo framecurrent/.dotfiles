@@ -1,0 +1,15 @@
+defaults
+
+# work
+account  
+host smtp..edu
+auth on
+port 587
+protocol smtp
+from  
+user  
+tls on
+tls_starttls on
+tls_certcheck off
+passwordeval pass 
+

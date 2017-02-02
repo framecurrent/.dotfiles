@@ -1,0 +1,33 @@
+#!/bin/sh
+
+color status blue default
+
+set from            = ""
+set sendmail        = "/usr/local/bin/msmtp -a "
+set sendmail_wait = 0
+set spoolfile       = "+/INBOX"
+unset record
+set realname        = ""
+set mbox            = "+/archive"
+set postponed 	    = "+/drafts"
+set record          = "+/sent"
+set trash           = "+/trash"
+
+
+mailboxes +/INBOX \
+          +/archive \
+          +/sent \
+          +/dox \
+          +/eco \
+          +/tmp \
+          +/drafts \
+          +/trash
+
+
+macro index D \
+    "<save-message>+/trash<enter>" \
+    "move message to the trash"
+
+macro index S \
+    "<save-message>+/spam<enter>"  \
+        "mark message as spam"

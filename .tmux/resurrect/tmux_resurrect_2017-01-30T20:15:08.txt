@@ -1,0 +1,18 @@
+pane	0	0	:mutt	1	:*	0	:/Volumes/DATA/Users/euclide	1	mutt	:mutt
+pane	0	1	:vifm	0	:-	0	:/Volumes/DATA/Users/euclide/Dropbox	1	vifm	:vifm
+pane	0	1	:vifm	0	:-	1	:/Volumes/DATA/Users/euclide	0	zsh	:
+pane	0	2	:vim	0	:	0	:/Volumes/DATA/Users/euclide/Dropbox	1	vim	:vim
+pane	0	3	:zsh	0	:	0	:/Volumes/DATA/Users/euclide	1	zsh	:
+pane	1	0	:zsh	1	:*	0	:/Volumes/DATA/Users/euclide	1	zsh	:
+pane	3	0	:zsh	0	:-	0	:/Volumes/DATA/Users/euclide	1	zsh	:
+pane	3	1	:zsh	1	:*	0	:/Volumes/DATA/Users/euclide	1	zsh	:
+pane	4	0	:zsh	1	:*	0	:/Volumes/DATA/Users/euclide	1	zsh	:
+window	0	0	1	:*	6535,141x38,0,0,16
+window	0	1	0	:-	9c61,141x38,0,0[141x31,0,0,2,141x6,0,32,3]
+window	0	2	0	:	ca01,141x38,0,0,4
+window	0	3	0	:	ca02,141x38,0,0,5
+window	1	0	1	:*	ca03,141x38,0,0,6
+window	3	0	0	:-	ca04,141x38,0,0,7
+window	3	1	1	:*	ca05,141x38,0,0,8
+window	4	0	1	:*	ca06,141x38,0,0,9
+state	0	1

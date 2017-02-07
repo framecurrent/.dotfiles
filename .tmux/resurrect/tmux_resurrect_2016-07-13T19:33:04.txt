@@ -1,0 +1,12 @@
+pane	0	0	:mutt	0	:	0	:/Volumes/DATA/Users/euclide	1	zsh	:
+pane	0	1	:vifm	0	:-	0	:/Volumes/DATA/Users/euclide	1	zsh	:
+pane	0	2	:vim	1	:*	0	:/Volumes/DATA/Users/euclide/Dropbox/DOCUMENTS/Markdown	1	vim	:vim
+pane	0	3	:zsh	0	:	0	:/Volumes/DATA/Users/euclide	1	zsh	:zsh -l
+pane	0	4	:NvimR	0	:	0	:/Volumes/DATA/Users/euclide/Documents/AMM	1	vim	:nclientserver
+pane	0	4	:NvimR	0	:	1	:/Volumes/DATA/Users/euclide/Documents/AMM	0	R	:
+window	0	0	0	:	e539,141x38,0,0,49
+window	0	1	0	:-	c9ff,141x38,0,0,2
+window	0	2	1	:*	6532,141x38,0,0,51
+window	0	3	0	:	ca02,141x38,0,0,5
+window	0	4	0	:	2eaa,141x38,0,0[141x22,0,0,66,141x15,0,23,67]
+state	0	

@@ -1,0 +1,9 @@
+pane	0	0	:mutt	1	:*	0	:/Volumes/DATA/Users/euclide	1	zsh	:
+pane	0	1	:vifm	0	:-	0	:/Volumes/DATA/Users/euclide	1	zsh	:
+pane	0	2	:vim	0	:	0	:/Volumes/DATA/Users/euclide	1	vim	:vim
+pane	0	3	:zsh	0	:	0	:/Volumes/DATA/Users/euclide	1	zsh	:
+window	0	0	1	:*	c9fe,141x38,0,0,1
+window	0	1	0	:-	c9ff,141x38,0,0,2
+window	0	2	0	:	ca00,141x38,0,0,3
+window	0	3	0	:	ca01,141x38,0,0,4
+state	0	

@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<root>
+
+<item>
+	<name> Swap Euro and Dollar keys (S-4 vs. S-A-4) </name>
+	<identifier>private.swap.euro.dollar</identifier>
+	<autogen>__KeyToKey__ KeyCode::4, ModifierFlag::SHIFT_L, KeyCode::4, ModifierFlag::OPTION_L </autogen>
+	<autogen>__KeyToKey__ KeyCode::4, ModifierFlag::OPTION_L, KeyCode::4, ModifierFlag::SHIFT_L </autogen>
+	<autogen>__KeyToKey__ KeyCode::4, ModifierFlag::SHIFT_R, KeyCode::4, ModifierFlag::OPTION_L </autogen>
+	<autogen>__KeyToKey__ KeyCode::4, ModifierFlag::OPTION_L, KeyCode::4, ModifierFlag::SHIFT_R </autogen>
+</item>
+
+    <appdef>
+        <appname>PREVIEW</appname>
+        <equal>com.apple.Preview</equal>
+    </appdef>
+
+    <item>
+        <name>Vim Search in Preview</name>
+        <identifier>private.preview.vimsearch</identifier>
+        <only>PREVIEW</only>
+        <uielementrole_not>AXTextField, AXTextArea</uielementrole_not>
+
+        <appendix>Search using /</appendix>
+        <autogen>__KeyToKey__, KeyCode::7, MODIFIERFLAG_EITHER_LEFT_OR_RIGHT_SHIFT, KeyCode::F, ModifierFlag::COMMAND_L</autogen>
+        <appendix>Repeat search using n/N</appendix>
+        <autogen>__KeyToKey__ KeyCode::N, ModifierFlag::NONE, KeyCode::G, ModifierFlag::COMMAND_L</autogen>
+        <autogen>__KeyToKey__ KeyCode::N, MODIFIERFLAG_EITHER_LEFT_OR_RIGHT_SHIFT, KeyCode::G, ModifierFlag::COMMAND_L | ModifierFlag::SHIFT_L</autogen>
+    </item>
+    <item>
+        <name>Vim Navigation in Preview</name>
+        <identifier>private.preview.vimnav</identifier>
+        <only>PREVIEW</only>
+        <uielementrole_not>AXTextField, AXTextArea</uielementrole_not>
+        <appendix>Navigate using hjkl/JK</appendix>
+        <modifier_only>
+            ModifierFlag::NONE,
+            ModifierFlag::SHIFT_L | ModifierFlag::NONE,
+            ModifierFlag::SHIFT_R | ModifierFlag::NONE,
+        </modifier_only>
+        <autogen>__KeyToKey__ KeyCode::H, KeyCode::CURSOR_LEFT</autogen>
+        <autogen>__KeyToKey__ KeyCode::J, KeyCode::CURSOR_DOWN</autogen>
+        <autogen>__KeyToKey__ KeyCode::K, KeyCode::CURSOR_UP</autogen>
+        <autogen>__KeyToKey__ KeyCode::L, KeyCode::CURSOR_RIGHT</autogen>
+    </item>
+    <item>
+        <name>Vim Zoom in Preview</name>
+        <identifier>private.preview.vimzoom</identifier>
+        <only>PREVIEW</only>
+        <uielementrole_not>AXTextField, AXTextArea</uielementrole_not>
+
+        <modifier_only>
+            ModifierFlag::NONE,
+            ModifierFlag::SHIFT_L | ModifierFlag::NONE,
+            ModifierFlag::SHIFT_R | ModifierFlag::NONE,
+        </modifier_only>
+        <appendix>Zoom using E/R: out/in</appendix>
+        <appendix>Zoom to fit: F</appendix>
+        <appendix>Zoom to 100%: D</appendix>
+        <autogen>__KeyToKey__ KeyCode::F, KeyCode::KEYPAD_9, VK_COMMAND</autogen>
+        <autogen>__KeyToKey__ KeyCode::D, KeyCode::KEYPAD_0, VK_COMMAND</autogen>
+        <autogen>__KeyToKey__ KeyCode::R, KeyCode::KEYPAD_PLUS, VK_COMMAND</autogen>
+        <autogen>__KeyToKey__ KeyCode::E, KeyCode::KEYPAD_MINUS, VK_COMMAND</autogen>
+    </item>
+
+</root>

@@ -1,0 +1,10 @@
+#!/bin/sh
+
+## Returns "⌁" if power is plugged in
+## OR-script from here: http://www.gilesorr.com/blog/tmux-statusbar.html
+
+case $(pmset -g batt | tail -1 | awk "{ print \$3 }" | tr -d ";") in
+    charg*)
+        echo "⌁"
+    ;;
+esac

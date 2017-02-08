@@ -1,0 +1,8 @@
+#!/bin/sh
+
+## Show % batter life
+## OR-script from here: https://terenz.io/blog/20160319_my_guide_to_tmux.html
+
+if command -v pmset &> /dev/null; then
+  pmset -g batt | egrep -o '[0-9]+\%'
+fi

@@ -1,0 +1,2 @@
+bookdown::render_book("<file>")    # bookdown: render book
+bquote(`[`*<text>)                 # ggplot2: escape [ in bquote (* is necessary)

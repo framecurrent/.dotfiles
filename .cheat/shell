@@ -1,0 +1,7 @@
+## kill program OSX
+ps -A | grep [name of program you want to close]  # 1. kill program: find PID
+kill -9 [process id]                              # 2. kill program
+
+TZ=europe/stockholm date  # Show CET/CEST
+TZ=america/new_york date  # Show EST/EDT (Boston doesn't work)
+

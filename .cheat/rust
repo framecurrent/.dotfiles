@@ -1,0 +1,6 @@
+cargo install --git https://github.com/ogham/exa                        # Install from GitHub via Cargo
+cargo install --no-default-features --git https://github.com/ogham/exa  # Install from GitHub via Cargo
+
+export OPENSSL_INCLUDE_DIR=/usr/local/opt/openssl/include    # Cargo: run on commandline when openssl doesn't work
+export DEP_OPENSSL_INCLUDE=/usr/local/opt/openssl/include    # Cargo: run on commandline when openssl doesn't work
+

@@ -1,0 +1,20 @@
+p                                    # mutt: print message to default printer (Samsung)
+^-G                                  # mutt: abort command
+D                                    # mutt: detach attachment
+Esc-e                                # mutt: forward message (HTML-attachm)
+S-f                                  # mutt: find message w/ notmuch
+attachment:pdf                       # mutt: find messages with pdf-attachments (after S-f)
+:set sort = reverse-date-received    # mutt: sort latest message on top
+:set sort = threads                  # mutt: sort as threads
+mutt -Rf ~/.mail/private/INBOX       # mutt: open private mailbox in read-only mode
+
+## print to non-default printer:
+lpstat -a                            # 1. list available printers
+lpoptions -d <printer name>          # 2. change to appropriate printer:
+                                     # 3. print
+lpoptions -d <printer name>          # 4. change back to original printer
+
+# send message
+echo "message contents"  # mutt -s "subject" -e 'source ~/.mutt/accounts/<account>' <recipient@mail.address>  # send message from command line
+mutt -s "subject" -e 'source ~/.mutt/accounts/<account>' <recipient@mail.address> < /path/to/message.txt     # send message from command line
+

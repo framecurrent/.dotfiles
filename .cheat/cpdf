@@ -1,0 +1,3 @@
+cpdf in1.pdf in2.pdf in3.pdf -o out.pdf     # cpdf: merge pdfs
+cpdf in.pdf 1,2,7-end -o out.pdf            # cpdf: remove page 3-6 from pdf
+cpdf -add-text "%%Page (%%EndPage)" -bottom 18 %f -o out.pdf      # cpdf/vifm: add page numbers

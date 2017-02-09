@@ -1,0 +1,10 @@
+montage -pointsize 22 -label "<caption text>" %f -geometry +0+0 out.png  # Imagemagick: add caption to image - no resize
+
+mogrify -density 150 -gravity center -extent 1240 -format png *.eps  # Imagemagick: convert to 150 dpi with whitespace to 1240 (~A4 size); double 1240 if using 300 dpi
+
+convert -size 1240x532 xc:white <img1> -geometry +188+0 -composite <img2> -geometry +620+0 -composite <img3> -geometry +404+266 -composite <outputimage>  # Imagemagick: combine three images into one; example where each figure is 432x266 and canvas size is 1240x532 => two images on top row and one below centered
+
+convert -append in1.pdf in2.pdf out.png  # Imagemagick: combine two images into one; one on top of other
+
+convert +append in1.pdf in2.pdf out.png  # Imagemagick: combine two images into one; one next to other
+

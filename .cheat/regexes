@@ -1,0 +1,8 @@
+%s/\s\+$//                         # remove trailing spaces
+
+%s/\(\W\)\(\[.\{-}\]\)/ \2\1/g     # change citation/reference-format: delimiter before to delimiter after reference
+
+%s/\(@[a-zA-Z-]*\d\{4}\)/\[\1\]/g  # add brackets to markdown citation
+
+%s/\d\+\.\d\{2}/\=printf("%.1f", str2float(substitute(submatch(0),',','.','')))/gc  # round to 1 decimal in vim  
+

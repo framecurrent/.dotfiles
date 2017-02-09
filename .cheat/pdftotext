@@ -1,0 +1,1 @@
+pdftotext -eol mac in.pdf out.txt    # convert pdf to text file

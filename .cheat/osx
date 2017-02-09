@@ -1,0 +1,5 @@
+# OSX stuff
+
+pmset -g batt    # osx: show battery status
+pmset -g batt | egrep "([0-9]+\%).*" -o | cut -f1 -d';'    # osx: extract "% battery life"
+pmset -g therm   # osx: show therm/temperature status

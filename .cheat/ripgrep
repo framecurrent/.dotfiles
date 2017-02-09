@@ -1,0 +1,3 @@
+rg FooBar           # ripgrep search all files incorporating word FooBar
+rg -w FooBar        # ripgrep search all files incorporating word FooBar surrounded by word characters
+rg -F FooBar        # ripgrep search all files incorporating literal word FooBar

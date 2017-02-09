@@ -1,0 +1,1 @@
+rename 'y/A-Z/a-z/' *    # rename: lowercase all files and folders in current directory

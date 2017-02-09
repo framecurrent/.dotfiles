@@ -1,0 +1,6 @@
+# basic conversions
+pandoc -so output.html --no-wrap input.txt      # no text wrapping  
+pandoc -so output.html --columns=110 input.txt  # text wrapping at 110  
+pandoc --extract-media=./ -so out.md in.docx    # Convert from docx to md while extracting media
+pandoc -so output.docx --reference-docx=/Volumes/DATA/Users/euclide/Dropbox/FormDox/reference.docx input.txt  # for use with docx template  
+

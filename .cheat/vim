@@ -1,0 +1,31 @@
+xp                 # vim: swap characters
+
+:x                 # vim: write file and exit
+:r <file>          # vim: insert from file
+:set list          # vim: Show non-printing characters (incl. non-breaking space)
+:bd                # vim: buffer delete = close file
+:sav <filename>    # vim: save file under new filename and continue working on NEW file
+:w   <filename>    # vim: save file under new filename and continue working on OLD file
+:q                 # vim: close split
+:20vsp .           # vim: open file manager in new, small v-split to the left
+:verbose imap _    # vim: Check which plugin affects key binding (e g underscore)
+:verbose ia _      # vim: Check abbreviation (e g underscore)
+<C-o> 80i- <esc>   # vim: insert 80 - characters (starting from insert mode)
+
+<C-w> q            # vim: close split
+<C-r> =            # vim: calculate (insert mode)
+<C-r><C-w>         # vim: copy/paste word under cursor when on commandline (for search/replace)
+g <C-g>            # vim: count number of words in current buffer
+V5j g <C-g>        # vim: count number of words in 6-line block
+<C-v> u2705        # vim: insert unicode ✅
+<C-v> u274c        # vim: insert unicode ❌
+
+gh                 # vim-filebeagle: toggle show hidden/dot-files
+;rf                # Nvim-R: start R
+;rq                # Nvim-R: stop R
+;cc                # Nvim-R: run chunk
+;rv                # Nvim-R:# preview csv; cursor on relevant dataframe
+
+;tr                # vim-table-mode: realign
+;K                 # vim-online-thesaurus: synonym word under cursor
+rm -rf ~/.cache/calendar.vim/google/    # calendar.vim: remove cache directory (and reauthorize to Google)

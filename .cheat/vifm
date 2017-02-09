@@ -1,0 +1,27 @@
+copy            # copy entire directory to other pane (cursor on the directory to be copied)
+move            # move directory (cursor on the directory to be moved)
+yd              # vifm: yank current directory path to buffer/clipboard
+yf              # vifm: yank current file path to buffer/clipboard
+
+cd %D           # vifm: change|display|show directory to that of other pane|window
+
+e %a            # vifm: open current file in vim
+ov              # vifm: open file in vim in new tmux window and return to vifm upon ZZ
+,c              # vifm: open vifmrc in vim, source the file and return to vifm upon ZZ
+
+find ./Dropbox/ -type f -name BB\-*    # vifm: find files starting w/ BB-
+
+pdfred %f out.pdf  # vifm: reduce pdf file size
+pdf2ps -q -sOutputFile=- %f | ps2pdf - out.pdf    # vifm: flatten pdf
+
+!echo %d %S               # vifm: display the current directory in the status bar
+!rename -z %f             # vifm: rename/clean up file/directory name from spaces
+!rename 's/abc/xyz/' %f   # vifm: rename part of file name from abc to xyz 
+!unrar x %f               # vifm: unrar archive
+
+!mogrify -resize 50%% %f  # vifm: resize image 50%
+!unoconv -f png #.emf     # vifm: convert all emf-files in directory to png
+
+!pandoc --extract-media=./ -so out.md %f  # vifm: convert from docx to md while extracting media
+
+gr                        # vifm: open file in finder

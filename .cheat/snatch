@@ -1,0 +1,1 @@
+snatch --url <url to download> --file out.ext --threads 3    # snatch: download large file with url

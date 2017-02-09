@@ -1,0 +1,4 @@
+aescrypt -e -p apples picture.jpg      # aescrypt: encrypt file (-e) with given password (-p = apples)
+aescrypt -e picture.jpg                # aescrypt: encrypt file (-e) without given password (will be asked for)
+aescrypt -d -p apples picture.jpg.aes  # aescrypt: decrypt file (-d) with given password (-p = apples)
+aescrypt -d picture.jpg.aes            # aescrypt: decrypt file (-d) without given password (will be asked for)

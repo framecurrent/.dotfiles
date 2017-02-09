@@ -1,0 +1,16 @@
+<localLeader> s     # todo.txt Sort the file by priority
+<LocalLeader> sd    # todo.txt Sort the file on due dates
+<leader> sd         # todo.txt Sort the file by due-date
+<LocalLeader> j     # todo.txt Lower the priority of the current line
+<LocalLeader> k     # todo.txt Increase the priority of the current line
+<LocalLeader> a     # todo.txt Add the priority (A) to the current line
+<LocalLeader> b     # todo.txt Add the priority (B) to the current line
+<LocalLeader> c     # todo.txt Add the priority (C) to the current line
+<LocalLeader> d     # todo.txt Insert the current date
+<LocalLeader> x     # todo.txt Toggle mark task as done
+<LocalLeader> C     # todo.txt Toggle mark task cancelled
+<LocalLeader> X     # todo.txt Mark all tasks as completed
+<LocalLeader> D     # todo.txt Move completed tasks to done file
+date<tab>           # todo.txt (Insert mode) Insert the current date
+due                 # todo.txt (Insert mode) Insert due followed by the current date
+DUE                 # todo.txt (Insert mode) Insert DUE followed by the current date

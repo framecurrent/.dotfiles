@@ -1,0 +1,50 @@
+# a comment
+
+browser                      "open -a Firefox %u"
+max-items                    200     
+text-width                   80      # 35em, 12-15 words a line
+display-article-progress     yes
+mark-as-read-on-hover        yes
+auto-reload                  yes
+# cleanup-on-quit              yes
+refresh-on-startup           yes
+# delete-read-articles-on-quit yes
+
+color background          color244 color234
+color listnormal          color68  default
+color listfocus           white color130
+color listnormal_unread   cyan     default
+color listfocus_unread    color234 color130 bold
+color info                color234 color244 bold   
+color article             white    default  bold
+# color info                yellow   blue   
+# color listnormal          blue     color234
+# color listnormal_unread   cyan     color234
+# color listfocus_unread    yellow   blue     bold
+
+highlight articlelist     "dynamic|system|network|supramolecular|glyco|carboh|antibio|antimicro" yellow default
+# highlight article         "professor|dynamic|system|network|supramolecular|glyco|carboh" yellow black
+
+highlight article         "^(Feed):.*"                        color175 default
+highlight article         "^(Title|Author|Link|Date):.*"      color75  default
+highlight article         "^Podcast Download URL:.*"          color71  default
+highlight article         "^Links:"                           blue     color240 underline
+highlight article         "\\[[0-9][0-9]*\\]"                 color72  default  bold
+highlight article         "\\[image [0-9][0-9]*\\]"           color72  default  bold
+highlight article         "\\[embedded flash: [0-9][0-9]*\\]" color72  default  bold
+highlight article         ":.*\\(link\\)$"                    color74  default
+highlight article         ":.*\\(image\\)$"                   color74  default
+highlight article         ":.*\\(embedded flash\\)$"          color74  default 
+
+bind-key                  j       next-unread 
+bind-key                  k       prev-unread 
+bind-key                  l       open 
+bind-key                  L       toggle-show-read-feeds 
+bind-key                  h       quit
+bind-key                  y       mark-feed-read
+
+macro , pagedown ; pageup
+
+# macro , next-unread ; next-unread ; next-unread ; next-unread ; next-unread ; next-unread ; next-unread ; next-unread ; next-unread ; next-unread ; next-unread ; next-unread ; next-unread ; next-unread ; next-unread ; next-unread ; next-unread ; next-unread ; next-unread ; next-unread ; next-unread ; next-unread ; next-unread ; next-unread ; prev-unread ; prev-unread ; prev-unread ; prev-unread ; prev-unread ; prev-unread ; prev-unread ; prev-unread ; prev-unread ; prev-unread ; prev-unread ; prev-unread ; prev-unread ; prev-unread ; prev-unread ; prev-unread ; prev-unread ; prev-unread ; prev-unread ; prev-unread ; prev-unread ; prev-unread ; prev-unread ; prev-unread
+
+save-path                 "~/Dropbox/CLOUD/NewsbeuterItems"

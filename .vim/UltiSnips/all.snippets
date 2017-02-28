@@ -1,0 +1,491 @@
+#######################################################################
+#                            Greek letters                            #
+#######################################################################
+
+snippet alpha "alpha" i
+α
+endsnippet
+snippet beta "beta" i
+β
+endsnippet
+snippet gamma "gamma" i
+γ
+endsnippet
+snippet DELTA "DELTA" i
+Δ
+endsnippet
+snippet epsilon "epsilon" i
+ε
+endsnippet
+snippet zeta "zeta" i
+ζ
+endsnippet
+snippet mu "mu" i
+μ
+endsnippet
+snippet nu "nu" i
+ν
+endsnippet
+snippet rho "rho" i
+ρ
+endsnippet
+snippet sigma "sigma" i
+σ
+endsnippet
+
+#######################################################################
+#                         special characters                          #
+#######################################################################
+
+snippet nbsp "non-breaking space" i
+ 
+endsnippet
+snippet ggr "ggr/times" i
+×
+endsnippet
+snippet << "magritter pipe" i
+%>%
+endsnippet
+snippet chk "white checkmark on green" i
+✅
+endsnippet
+snippet udn "Description" i
+❌
+endsnippet
+snippet no4 "Keycap4" i
+4️⃣️ 
+endsnippet
+snippet no5 "Keycap5" i
+5️⃣️
+endsnippet
+snippet no6 "Keycap6" i
+6️⃣️
+endsnippet
+snippet no7 "Keycap7" i
+7️⃣️
+endsnippet
+snippet baby "Baby symbol" i
+🚼
+endsnippet
+
+#######################################################################
+#                               special                               #
+#######################################################################
+
+snippet doi "http://dx.doi.org/"
+http://dx.doi.org/
+endsnippet
+#######################################################################
+#                                date                                 #
+#######################################################################
+
+snippet ymd "Current date"
+`date +%Y-%m-%d`
+endsnippet
+
+#######################################################################
+#                             salutations                             #
+#######################################################################
+
+snippet br "Best regards,"
+Best regards,
+Olof Ramstrom
+
+endsnippet
+snippet bh "Bästa hälsningar,"
+Bästa hälsningar,
+Olof
+
+endsnippet
+snippet bhr "Bästa hälsningar (R),"
+Bästa hälsningar,
+Olof Ramström
+
+endsnippet
+snippet atb "All the best,"
+All the best,
+Olof
+
+endsnippet
+snippet atvb "All the very best,"
+All the very best,
+Olof
+
+endsnippet
+snippet bw "Best wishes,"
+Best wishes,
+Olof
+
+endsnippet
+snippet bwss "Best wishes from sunny Stockholm,"
+Best wishes from sunny Stockholm,
+Olof
+
+endsnippet
+snippet kr "Kind regards,"
+Kind regards,
+Olof
+
+endsnippet
+snippet tc "Take care,"
+Take care,
+Olof
+
+endsnippet
+snippet tsc "Take supercare,"
+Take supercare,
+Olof
+
+endsnippet
+snippet tb "A très bientôt,"
+A très bientôt,
+Olof
+
+endsnippet
+
+#######################################################################
+#                             signatures                              #
+#######################################################################
+
+snippet ske "Signature KTH"
+---
+Olof Ramstrom
+Professor
+KTH - Royal Institute of Technology
+Department of Chemistry - Organic Chemistry
+Teknikringen 30
+S-10044 Stockholm
+Sweden
+Phone: +46 8 7906915
+Email: ramstrom@kth.se
+
+endsnippet
+snippet sbb "Signature B&B"
+---
+Prof. Olof Ramstrom
+Editor
+Biosensors and Bioelectronics
+
+endsnippet
+snippet sue "Signature UML"
+---
+Olof Ramstrom
+Professor
+Department of Chemistry
+University of Massachusetts Lowell
+1 University Avenue
+Lowell, MA 01854
+Phone: +1 978-934-3679
+Email: olof_ramstrom@uml.edu
+
+endsnippet
+#######################################################################
+#                               replies                               #
+#######################################################################
+
+snippet rpdf "Reply PDF application" b
+Dear Dr. ${1:NAME},
+
+Thank you for your interest in pursuing postdoctoral research in my group at the Royal Institute of Technology. Although your background is interesting, I do not have any openings for fellowships at the present time.
+
+I am grateful for your interest in our research and wish you the best in your career pursuits.
+
+Best regards,
+Olof Ramstrom
+
+———
+Olof Ramstrom
+Professor
+KTH - Royal Institute of Technology
+Department of Chemistry - Organic Chemistry
+Teknikringen 30
+S-10044 Stockholm
+Sweden
+Phone: +46 8 7906915
+Email: ramstrom@kth.se
+
+endsnippet
+snippet rphd "Reply PhD-student application" b
+Dear ${1:NAME}
+
+Thank you for your interest in pursuing doctoral research in my group at the Royal Institute of Technology. Although your background is interesting, I do not have any openings for scholarships at the present time.
+
+I am grateful for your interest in our research and wish you the best in your career pursuits.
+
+Best regards,
+Olof Ramstrom
+
+---
+Olof Ramstrom
+Professor
+KTH - Royal Institute of Technology
+Dept of Chemistry, Organic Chemistry
+Teknikringen 30
+S-10044 Stockholm
+Sweden
+Phone: +46 8 7906915
+Email: ramstrom@kth.se
+
+endsnippet
+snippet rstud "student candidate" b
+Dear ${1:NAME},
+
+Thank you for your interest in pursuing a research project in my group at the Royal Institute of Technology. Although your background is interesting, I do not have any openings for projects at the present time.
+
+I am grateful for your interest in our research and wish you the best in your career pursuits.
+
+Best regards,
+Olof Ramstrom
+
+---
+Olof Ramstrom
+Professor
+KTH - Royal Institute of Technology
+Dept of Chemistry, Organic Chemistry
+Teknikringen 30
+S-10044 Stockholm
+Sweden
+Phone: +46 8 7906915
+Fax: +46 8 7912333
+Email: ramstrom@kth.se
+endsnippet
+snippet rdec "Decline invitation" b
+Dear ${1:NAME}
+
+Thank you kindly for the invitation. Due to many other obligations, I am however forced to decline.
+
+I wish you all success with the project.
+
+Best regards,
+Olof Ramstrom
+
+---
+Olof Ramstrom
+Professor
+KTH - Royal Institute of Technology
+Department of Chemistry - Organic Chemistry
+Teknikringen 30
+S-10044 Stockholm
+Sweden
+Phone: +46 8 7906915
+Email: ramstrom@kth.se
+
+endsnippet
+
+#######################################################################
+#                              Rmd-yaml                               #
+#######################################################################
+
+snippet Raml "Description" b
+---
+title: "${1:Title}"
+output:
+  html_document:
+    css: ~/Dropbox/FormDox/customOR.css
+    fig_caption: yes
+  word_document:
+    fig_caption: yes
+    reference: ~/Dropbox/FormDox/reference.docx
+bibliography: ~/Dropbox/Documents/TeX-DoX/BibTeX/library.bib
+csl: /Volumes/DATA/Users/euclide/Dropbox/Documents/TeX-DoX/BibTeX/acs_w_titles.csl
+---
+
+${2:Heading}
+------------
+
+endsnippet
+
+#######################################################################
+#                              ioslides                               #
+#######################################################################
+
+snippet igr "include_graphics" b
+\`\`\`{r, out.width = '${1:100}%', fig.align = '${2:center}', fig.cap = '${3: }'}
+include_graphics('./media/${4:img.png}')
+\`\`\`
+
+${0}
+endsnippet
+snippet dc "div class" b
+<div class='${1:class}'>
+endsnippet
+snippet ds "div style" b
+<div style='${1:style}'>
+endsnippet
+snippet xd "exit div" b
+</div>
+endsnippet
+#######################################################################
+#                                 MY#
+#######################################################################
+
+snippet myd "MY-DailyPhrase" b
+Hej Mingdi,
+
+Here's the daily Swedish phrase. The translation follows below.
+
+Take supercare,
+Olof
+
+
+--- translation ---
+
+${1:translation}
+
+---
+
+${2:explanation}: ${3:link}
+
+
+Take supercare,
+Olof
+
+endsnippet
+snippet vrrw "VR-2016-Review" b
+❌ ${1:PI-name}
+===============
+
+General info
+------------
+
+${2:Projekt}bidrag - NT-6${3}: Organisk och oorganisk kemi\
+Projekttitel: ${4:SE-title}\
+Project title: ${5:EN-title}\
+Location: ${6:location}
+
+[${7:Initial}.pdf](file:///Volumes/DATA/Users/euclide/Dropbox/ARCHIVE/REFEREE/VR_2016/pdfs/$7.pdf)
+
+Intro
+-----
+
+$2bidrag. ${8:Fem}ale candidate. ${0}
+
+Novelty and originality - *Grade:*
+----------------------------------
+
++ Strengths
+    + Ambitious project targeting …
+    + Addressing a fundamental problem of …
+    + Addresses an increased understanding of …
+    + Unexplored territory for …
+    + Exploration of new …
+    + Application of …
+    + Applying … chemistry to …
+    + Integrating … chemistry with …
+    + New applications in …
+    + Further, new development of recently developed …
+    + Proposes unexplored possibilities of …
+    + Can lead to new …
+    + Has the potential to lead to routine methodology in …
+    + Relevant target molecules.
+    + Planned … of …
+
+- Weaknesses
+    - In part well-known technology.
+    - Generally based on established chemistry.
+    - Basic methodology known.
+    - Method limited to …
+    - Not much detail of any chemistry.
+    - Low level of detailed understanding.
+
+*Notes and refs:*\
+[](http://dx.doi.org/)
+[](http://dx.doi.org/)
+
+Scientific quality of the proposed research - *Grade:*
+------------------------------------------------------
+
++ Strengths
+    + Ambitious project plan.
+    + Generally well-described project with clear problem statements and background survey.
+    + Generally well-described objectives.
+    + Generally well-described project tasks.
+    + Relevant pitfalls described.
+    + Flexible project plan enabling redirection upon problems.
+    + Preliminary results in part addressing the tasks.
+    + Addresses an increased understanding of …
+    + Addresses fundamental problems of high interest in …
+    + Proposes the use of …
+    + Generally based on recently developed … part of which in the applicant's group.
+    + Generally based on established chemistry.
+    + Combination of known technologies with new applications.
+    + Combinatorial approaches for rapid exploration.
+    + Relevant target molecules.
+    + Proposed reactions of high value to the … community.
+    + Proposed materials of high value to the … community.
+    + Proposed methodology of high value to the … community.
+    + Will potentially lead to increased understanding of …
+    + Will potentially lead to new …
+    + Has the potential to lead to routine methodology.
+
+- Weaknesses
+    + Weakly described project.
+    + Weakly described objectives.
+    + Weakly described project tasks.
+    - Complex proposal layout.
+    - The … section not extensively described.
+    - Relatively repetitive description.
+    - Weak discussion on potential pitfalls.
+    - Highly focused, relatively inflexible project.
+    - Few preliminary results.
+    - Preliminary results spread out.
+    - Much of the work based on … already developed.
+    - The generality of the method is limited.
+
+Merits of the applicant(s) - *Grade:*
+-------------------------------------
+
++ Strengths
+    * Holds long experience and has extensive expertise that well matches the project.
+    + Has extensive international experience.
+    + Has extensive experience in supervising coworkers.
+    + Some mentoring experience.
+    + Projected national and international collaborations.
+    + Recipient of several grants.
+    + GRADE publication record (Grade X).
+    + Co-supervisor of X graduate students.
+    + Shown excellent record at all institutions.
+    + Xy research experience after PhD.
+    + X articles as corresponding author.
+
+- Weaknesses
+    * Has not shown strong productivity.
+    - The PIs and the co-PIs independent contributions are difficult to discern from other members of the research environment.
+    - No independence.
+    - No teaching experience.
+    - Applicant always with same supervisor. No additional expertise.
+
+Feasibility - *Grade:*
+----------------------
+
++ Strengths
+    + Highly skilled applicant.
+    + Experienced applicant.
+    + Based on recent technology developed by the PI and colleagues, securing rapid startup of the project.
+    + Based on established chemistry.
+    + Some existing preliminary results.
+    + State-of-the-art infrastructure/instrumentation allowing for efficient project progress.
+    + Reasonable infrastructure/instrumentation allowing for efficient project progress.
+    + Relevant infrastructure in place.
+    + Strong research environment involving the PI, co-PIs and collaborating groups with experiences in complementary areas.
+    + Excellent research environment for proposed project.
+    + Excellent mentoring capabilities at host institution.
+    + Established, strong network of national and international potential collaborators.
+    + Arranged collaborations in …
+    + Some projects can be carried out by MSc students.
+
+- Weaknesses
+    - Weakly experienced applicant.
+    * No preliminary results.
+    + No projected national and international collaborations.
+
+Overall assessment of the application's scientific quality - *Grade:*
+--------------------------------------------------------------------
+
+This proposal stands out as GRADE, especially with respect to scientific quality, feasibility and merits of the applicant. The proposed project is well-described and has a solid foundation in established chemistry. The novelty of the project lies in the exploration of …
+The reactions and the developed pathways to the target molecules are of high value for the community. The applicant is well experienced in the field, and the excellent research environment will enable rapid progress of the project.
+
+Other remarks
+-------------
+
+endsnippet

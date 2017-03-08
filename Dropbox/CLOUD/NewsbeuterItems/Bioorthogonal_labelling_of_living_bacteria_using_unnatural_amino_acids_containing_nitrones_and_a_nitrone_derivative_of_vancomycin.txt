@@ -1,0 +1,15 @@
+Title: Bioorthogonal labelling of living bacteria using unnatural amino acids containing nitrones and a nitrone derivative of vancomycin
+Author: John Paul Pezacki
+Date: Wed, 22 Jul 2015 07:03:38 +0200
+Link: http://feeds.rsc.org/~r/rss/CC/~3/sMer0cAB9Vg/C5CC04901F
+
+[image 1]
+Chem. Commun., 2015, 51,12501-12504DOI: 10.1039/C5CC04901F, Communication
+Douglas A. MacKenzie, Allison R. Sherratt, Mariya Chigrinova, Arnold J. Kell, 
+John Paul PezackiUnnatural D-amino acids bearing endocyclic nitrones were 
+developed for live-cell labelling of the bacterial peptidoglycan layer.The 
+content of this RSS Feed (c) The Royal Society of Chemistry[image 2]
+
+Links: 
+[1]: http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C5CC04901F (image)
+[2]: http://feeds.feedburner.com/~r/rss/CC/~4/sMer0cAB9Vg (image)

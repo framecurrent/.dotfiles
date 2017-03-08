@@ -1,0 +1,18 @@
+Title: Gelation-driven Dynamic Systemic Resolution: in situ Generation and Self-Selection of an Organogelator
+Author: 
+Date: Tue, 16 Jun 2015 03:00:00 +0200
+Link: http://feeds.nature.com/~r/srep/rss/current/~3/YlQMLA8Cijc/srep11065
+
+An organogelator was produced and identified from a dynamic imine system, 
+resolved and amplified by selective gelation. The formation of the organogel 
+was monitored in situ by 1H NMR, showing the existence of multiple reversible 
+reactions operating simultaneously, and the redistribution of the involved 
+species during gelation. The formed organogelator proved effective with a range
+of organic solvents, including DMSO, toluene, and longer, linear alcohols. 
+
+Scientific Reports 5 doi: 10.1038/srep11065[1]
+[image 2]
+
+Links: 
+[1]: http://dx.doi.org/10.1038/srep11065 (link)
+[2]: http://feeds.feedburner.com/~r/srep/rss/current/~4/YlQMLA8Cijc (image)

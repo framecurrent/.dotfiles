@@ -1,0 +1,21 @@
+Title: Asymmetric assembly of aldose carbohydrates from formaldehyde and glycolaldehyde by tandem biocatalytic aldol reactions
+Author: 
+Date: Mon, 10 Aug 2015 03:00:00 +0200
+Link: http://dx.doi.org/10.1038/nchem.2321
+
+[image 1]
+
+Nature Chemistry 7, 724 (2015). doi:10.1038/nchem.2321[2]
+
+Authors: Anna Szekrenyi, Xavier Garrabou, Teodor Parella, Jesús Joglar, Jordi 
+Bujons & Pere Clapés
+
+Forged by evolution, the natural enzymatic pathways to aldose carbohydrates are
+complex. Now, a biocatalytic stereoselective one-pot assembly of these 
+carbohydrates from formaldehyde and glycolaldehyde using engineered 
+D-fructose-6-phosphate aldolase (FSA) variants has been developed that 
+circumvents this complexity.
+
+Links: 
+[1]: http://www.nature.com/nchem/journal/v7/n9/images/nchem.2321-toc.jpg (image)
+[2]: http://dx.doi.org/10.1038/nchem.2321 (link)

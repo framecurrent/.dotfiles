@@ -1,0 +1,31 @@
+Title: Glyconanomaterials for Combating Bacterial Infections
+Author: 
+Date: Tue, 29 Sep 2015 10:11:14 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fchem.201502842
+
+Abstract
+
+Bacterial infections constitute an increasing problem to human health in 
+response to build-up of resistance to present antibiotics and sluggish 
+development of new pharmaceuticals. However, a means to address this problem is
+to pinpoint the drug delivery to—and into—the bacteria. This results in a high 
+local concentration of the drug, circumventing the increasingly high doses 
+otherwise necessary. Combined with other effectors, such as covalent attachment
+to carriers, rendering the drugs less degradable, and the combination with 
+efflux inhibitors, old drugs can be revived. In this context, 
+glyconanomaterials offer exceptional potential, since these materials can be 
+tailored to accommodate different effectors. In this Concept article, we 
+describe the different advantages of glyconanomaterials, and point to their 
+potential in antibiotic “revitalization”.
+[image 2][1]
+
+Small wonder: Glyconanomaterials (see figure) offer exceptional potential 
+towards combating bacterial infections. These materials can accommodate 
+different effectors and be tailored in terms of targeting, size, shape, 
+presentation, etc. In this Concept article, the different advantages of 
+glyconanomaterials are described, and their potential in antibiotic 
+“revitalization” is pointed out.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/chem.201502842/asset/image_m/mcontent.jpg?v=1&s=6d3f537ebda599c92ffd5f94968816cf937b0485 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/chem.201502842/asset/image_n/ncontent.jpg?v=1&s=e7bf5eda96cc5a6000cd868430778e7b660b3b7a (image)

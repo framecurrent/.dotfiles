@@ -1,0 +1,28 @@
+Title: Enhancing the antimicrobial activity of natural extraction using the synthetic ultrasmall metal nanoparticles
+Author: 
+Date: Fri, 05 Jun 2015 03:00:00 +0200
+Link: http://feeds.nature.com/~r/srep/rss/current/~3/HlgXuhuu15E/srep11033
+
+The use of Catechin as an antibacterial agent is becoming ever-more common, 
+whereas unstable and easy oxidation, have limited its application. A simple and
+low-energy-consuming approach to synthesize highly stable and dispersive 
+Catechin-Cu nanoparticles(NPs) has been developed, in which the stability and 
+dispersivity of the NPs are varied greatly with the pH value and temperature of
+the reaction. The results demonstrate that the optimal reaction conditions are 
+pH 11 at room temperature. As-synthesized NPs display excellent antimicrobial 
+activity, the survival rates of bacterial cells exposed to the NPs were 
+evaluated using live/dead Bacterial Viability Kit. The results showed that NPs 
+at the concentration of 10 ppm and 20 ppm provided rapid and effective killing 
+of up to 90% and 85% of S. aureus and E. coli within 3 h, respectively. After 
+treatment with 20 ppm and 40 ppm NPs, the bacteria are killed completely. 
+Furthermore, on the basis of assessing the antibacterial effects by SEM, TEM, 
+and AFM, it was found the cell membrane damage of the bacteria caused by direct
+contact of the bacteria with the NPs was the effective mechanism in the 
+bacterial inactivation. 
+
+Scientific Reports 5 doi: 10.1038/srep11033[1]
+[image 2]
+
+Links: 
+[1]: http://dx.doi.org/10.1038/srep11033 (link)
+[2]: http://feeds.feedburner.com/~r/srep/rss/current/~4/HlgXuhuu15E (image)

@@ -1,0 +1,21 @@
+Title: Catch-bond mechanism of the bacterial adhesin FimH
+Author: 
+Date: Mon, 07 Mar 2016 00:00:00 +0100
+Link: http://feeds.nature.com/~r/ncomms/rss/current/~3/YoaObx9ilEs/ncomms10738
+
+Article
+
+Catch bonds have a role in bacterial adhesion and infection by uropathogenic E.
+coli. Here, the authors report crystal structures, molecular dynamics 
+simulations, ligand binding analysis and cell tracking to characterise the 
+catch bond interaction between the adhesin FimH and carbohydrate receptors.
+
+Nature Communications doi: 10.1038/ncomms10738[1]
+
+Authors: Maximilian M. Sauer, Roman P. Jakob, Jonathan Eras, Sefer Baday, Deniz
+Eriş, Giulio Navarra, Simon Bernèche, Beat Ernst, Timm Maier, Rudi Glockshuber
+[image 2]
+
+Links: 
+[1]: http://dx.doi.org/10.1038/ncomms10738 (link)
+[2]: http://feeds.feedburner.com/~r/ncomms/rss/current/~4/YoaObx9ilEs (image)

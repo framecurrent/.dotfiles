@@ -1,0 +1,38 @@
+Title: Mononuclear Polypyridylruthenium(II) Complexes with High Membrane Permeability in Gram-Negative Bacteria—in particular Pseudomonas aeruginosa
+Author: 
+Date: Wed, 03 Jun 2015 11:20:10 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fchem.201500385
+
+Abstract
+
+Ruthenium(II) complexes containing the tetradentate ligand 
+bis[4(4′-methyl-2,2′-bipyridyl)]-1,n-alkane (“bb[n]”; n=10 and 12) have been 
+synthesised and their geometric isomers separated. All [Ru(phen)(bb[n])]^2+ 
+(phen=1,10-phenanthroline) complexes exhibited excellent activity against 
+Gram-positive bacteria, but only the cis-α-[Ru(phen)(bb[12])]^2+ species showed
+good activity against Gram-negative species. In particular, the cis
+-α-[Ru(phen)(bb[12])]^2+ complex was two to four times more active than the cis
+-β-[Ru(phen)(bb[12])]^2+ complex against the Gram-negative strains. The cis-α- 
+and cis-β-[Ru(phen)(bb[12])]^2+ complexes readily accumulated in the bacteria 
+but, significantly, showed the highest level of uptake in Pseudomonas 
+aeruginosa. Furthermore, the accumulation of the cis-α- and cis-β-[Ru(phen)(bb[
+12])]^2+ complexes in P. aeruginosa was considerably greater than in 
+Escherichia coli. The uptake of the cis-α-[Ru(phen)(bb[12])]^2+ complex into 
+live P. aeruginosa was confirmed by using fluorescence microscopy. The 
+water/octanol partition coefficients (log P) were determined to gain 
+understanding of the relative cellular uptake. The cis-α- and cis
+-β-[Ru(phen)(bb[n])]^2+ complexes exhibited relatively strong binding to DNA (K[
+b]≈10^6 M^−1), but no significant difference between the geometric isomers was 
+observed.
+[image 2][1]
+
+New activity: The inert mononuclear ruthenium(II) complex cis-α-[Ru(phen)(bb[12]
+)]^2+ ion (see picture; phen=1,10-phenanthroline, 
+bb=bis[4(4′-methyl-2,2′-bipyridyl)]-1,n-alkane) readily accumulates in 
+Pseudomonas aeruginosa and showed good activity against it. This Gram-negative 
+bacterium is of particular worldwide concern because it is naturally resistant 
+to many antimicrobial agents due to the low permeability of its outer membrane.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/chem.201500385/asset/image_m/mcontent.gif?v=1&s=002e7f6ec3598bc99a19f4c65f03ffdfde7b6917 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/chem.201500385/asset/image_n/ncontent.gif?v=1&s=d7ce1cbeeb2be21bed18cdcce462df9fbcbb1bff (image)

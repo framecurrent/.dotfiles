@@ -1,0 +1,15 @@
+Title: Stereoselective synthesis: Molecular editing of carbohydrates
+Author: 
+Date: Tue, 23 Jun 2015 03:00:00 +0200
+Link: http://dx.doi.org/10.1038/nchem.2289
+
+Nature Chemistry 7, 539 (2015). doi:10.1038/nchem.2289[1]
+
+Author: Andrew McNally
+
+Deoxygenation reactions have been used to convert biomass-derived carbohydrates
+into useful platform chemicals. Now, a method has been described that can 
+selectively excise C–O bonds to produce valuable chiral synthons.
+
+Links: 
+[1]: http://dx.doi.org/10.1038/nchem.2289 (link)

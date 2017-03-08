@@ -1,0 +1,32 @@
+Title: Magnetic Control of Macromolecular Conformations in Supramolecular Anionic Polysaccharide–Iron Complexes
+Author: 
+Date: Fri, 18 Sep 2015 08:20:15 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fanie.201506898
+
+Abstract
+
+The anionic iota carrageenan polysaccharide is enriched with Fe^II and Fe^III 
+by ion exchange against FeSO[4] and FeCl[3]. With divalent iron, portions of 
+polymer chains undergo a secondary structure transition from random coils to 
+single helices. The single-chain macromolecular conformations can be 
+manipulated by an external magnetic field: upon exposure to 1.1 T, the helical 
+portions exhibit 1.5-fold stiffening and 1.1-fold stretching, whereas the coil 
+conformations respond much less as a result of lower contents of condensed iron
+ions. Along with the coil–helix transition, the trivalent iron triggers the 
+formation of superstructures. The applicability of iron-enriched iota 
+carrageenan as functional ingredient for food fortification is tested by free 
+Fe^2+ and Fe^3+ contents, respectively, with the most promising iota-Fe^III 
+yielding 53 % of bound iron, which is due to the superstructures, where the 
+ferric ions are chelated by the supramolecularly self-assembled polymer host.
+[image 2][1]
+
+Enrichment of iota carrageenan polysaccharides with Fe^2+ or Fe^3+ induces a 
+conformational transition from random coils to single helices. The noninvasive 
+magnetic manipulation of individual iota–Fe^II macromolecular conformations is 
+demonstrated by a magnetically induced stiffening and stretching of the helical
+chains. Multichain clusters arising from the efficient chelation of Fe^3+ may 
+serve for iron food fortification purposes.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/anie.201506898/asset/image_m/mcontent.jpg?v=1&s=8efdc6c7366d369a136ada88bf6c07017b6a69ee (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/anie.201506898/asset/image_n/ncontent.jpg?v=1&s=0eb0d54b139104e5c5c717de43150613276755ef (image)

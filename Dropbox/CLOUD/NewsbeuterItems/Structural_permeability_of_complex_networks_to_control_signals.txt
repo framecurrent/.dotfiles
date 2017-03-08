@@ -1,0 +1,21 @@
+Title: Structural permeability of complex networks to control signals
+Author: 
+Date: Tue, 22 Sep 2015 03:00:00 +0200
+Link: http://feeds.nature.com/~r/ncomms/rss/current/~3/QKcBT0AlpWI/ncomms9349
+
+Article
+
+Understanding how to control complex networks can be useful to steer 
+interconnected systems towards a desired state. Here, the authors introduce the
+concept of network permeability, a unified metric of the propensity of a 
+network to be controllable taking into account physical and economic 
+constrains.
+
+Nature Communications doi: 10.1038/ncomms9349[1]
+
+Authors: Francesco Lo Iudice, Franco Garofalo, Francesco Sorrentino
+[image 2]
+
+Links: 
+[1]: http://dx.doi.org/10.1038/ncomms9349 (link)
+[2]: http://feeds.feedburner.com/~r/ncomms/rss/current/~4/QKcBT0AlpWI (image)

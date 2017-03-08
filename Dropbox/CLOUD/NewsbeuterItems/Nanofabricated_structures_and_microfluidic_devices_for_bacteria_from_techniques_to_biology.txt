@@ -1,0 +1,17 @@
+Title: Nanofabricated structures and microfluidic devices for bacteria: from techniques to biology
+Author: Cees Dekker
+Date: Sun, 20 Sep 2015 09:20:00 +0200
+Link: http://feeds.rsc.org/~r/rss/CS/~3/UGzkk6aAJO8/C5CS00514K
+
+[image 1]
+Chem. Soc. Rev., 2015, Advance ArticleDOI: 10.1039/C5CS00514K, Tutorial Review
+Fabai Wu, Cees DekkerWe review the use of nanofabricated structures and 
+microfluidic technologies that spatially separate bacteria for quantitative 
+analyses and that provide topological constraints on their growth and chemical 
+communications.To cite this article before page numbers are assigned, use the 
+DOI form of citation above.The content of this RSS Feed (c) The Royal Society 
+of Chemistry[image 2]
+
+Links: 
+[1]: http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C5CS00514K (image)
+[2]: http://feeds.feedburner.com/~r/rss/CS/~4/UGzkk6aAJO8 (image)

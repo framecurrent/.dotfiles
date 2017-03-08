@@ -1,0 +1,17 @@
+Title: Computational chemistry: Making a bad calculation
+Author: 
+Date: Wed, 20 May 2015 03:00:00 +0200
+Link: http://dx.doi.org/10.1038/nchem.2267
+
+Nature Chemistry 7, 473 (2015). doi:10.1038/nchem.2267[1]
+
+Author: Arthur Winter
+
+Computations of the energetics and mechanism of the Morita–Baylis–Hillman 
+reaction are “not even wrong” when compared with experiments. While 
+computational abstinence may be the purest way to calculate challenging 
+reaction mechanisms, taking prophylactic measures to avoid regrettable outcomes
+may be more realistic.
+
+Links: 
+[1]: http://dx.doi.org/10.1038/nchem.2267 (link)

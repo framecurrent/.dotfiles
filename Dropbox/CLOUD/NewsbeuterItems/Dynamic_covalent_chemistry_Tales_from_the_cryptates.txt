@@ -1,0 +1,11 @@
+Title: Dynamic covalent chemistry: Tales from the cryptates
+Author: 
+Date: Tue, 23 Jun 2015 03:00:00 +0200
+Link: http://dx.doi.org/10.1038/nchem.2297
+
+Nature Chemistry 7, 536 (2015). doi:10.1038/nchem.2297[1]
+
+Author: Stuart Cantrill
+
+Links: 
+[1]: http://dx.doi.org/10.1038/nchem.2297 (link)

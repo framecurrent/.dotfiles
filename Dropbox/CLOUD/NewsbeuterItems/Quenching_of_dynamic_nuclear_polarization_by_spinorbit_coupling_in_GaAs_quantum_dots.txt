@@ -1,0 +1,21 @@
+Title: Quenching of dynamic nuclear polarization by spin–orbit coupling in GaAs quantum dots
+Author: 
+Date: Fri, 17 Jul 2015 03:00:00 +0200
+Link: http://feeds.nature.com/~r/ncomms/rss/current/~3/1ObwK1ZiP0w/ncomms8682
+
+Article
+
+Dynamic nuclear polarization is the transfer of electronic angular momentum to 
+nuclear spins and is a potential route for coherently manipulating spin in 
+quantum information. Here, the authors show that spin–orbit coupling can quench
+dynamic nuclear polarization in a gallium arsenide quantum dot.
+
+Nature Communications doi: 10.1038/ncomms8682[1]
+
+Authors: John M. Nichol, Shannon P. Harvey, Michael D. Shulman, Arijeet Pal, 
+Vladimir Umansky, Emmanuel I. Rashba, Bertrand I. Halperin, Amir Yacoby
+[image 2]
+
+Links: 
+[1]: http://dx.doi.org/10.1038/ncomms8682 (link)
+[2]: http://feeds.feedburner.com/~r/ncomms/rss/current/~4/1ObwK1ZiP0w (image)

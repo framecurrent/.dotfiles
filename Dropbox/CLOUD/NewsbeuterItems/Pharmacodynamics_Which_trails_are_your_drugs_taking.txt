@@ -1,0 +1,17 @@
+Title: Pharmacodynamics: Which trails are your drugs taking?
+Author: 
+Date: Mon, 20 Apr 2015 03:00:00 +0200
+Link: http://feeds.nature.com/~r/nchembio/rss/current/~3/E4E-Svv0gkw/nchembio.1795
+
+Nature Chemical Biology 11, 382 (2015). doi:10.1038/nchembio.1795[1]
+
+Author: Rumin Zhang
+
+Binding kinetics (BK) has an indispensable role in pharmacodynamics (PD). 
+Incorporating slow BK into a mechanistic PD model is shown to have predictive 
+value for in vitro cellular and in vivo animal antibacterial efficacy.
+[image 2]
+
+Links: 
+[1]: http://dx.doi.org/10.1038/nchembio.1795 (link)
+[2]: http://feeds.feedburner.com/~r/nchembio/rss/current/~4/E4E-Svv0gkw (image)

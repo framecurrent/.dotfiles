@@ -1,0 +1,14 @@
+Title: Multiple Attack on Bacteria by the New Antibiotic Teixobactin
+Author: 
+Date: Tue, 12 May 2015 14:40:14 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fanie.201501440
+
+[image 2][1]
+
+News from the antibiotics pipeline: The discovery of a depsipeptide-type lipid 
+II binder, isolated from a previously unknown bacterium, raises hopes in the 
+battle against multiresistant staphylococci.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/anie.201501440/asset/image_m/mcontent.gif?v=1&s=68a9bd4130286eefd15ee1f3b355b77cfff8e2db (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/anie.201501440/asset/image_n/ncontent.gif?v=1&s=52d2c62787b87a64e1e36ae720275dd83bed808e (image)

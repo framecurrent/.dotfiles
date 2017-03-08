@@ -1,0 +1,20 @@
+Title: Bioconjugation: How to pick a single amine?
+Author: 
+Date: Mon, 30 Mar 2015 02:00:00 +0200
+Link: http://feeds.nature.com/~r/nchembio/rss/current/~3/rRo1Xi82U7c/nchembio.1791
+
+Nature Chemical Biology 11, 306 (2015). doi:10.1038/nchembio.1791[1]
+
+Author: Floris P J T Rutjes
+
+Single-step site-specific labeling of native proteins is one of the holy grails
+in the chemical biology field. 2-Pyridinecarboxyaldehyde derivatives are shown 
+to react selectively at the N terminus of proteins to form stable conjugates, 
+irrespective of the nature of the N-terminal amino acid, enabling the 
+straightforward introduction of useful functional groups into a wide array of 
+proteins.
+[image 2]
+
+Links: 
+[1]: http://dx.doi.org/10.1038/nchembio.1791 (link)
+[2]: http://feeds.feedburner.com/~r/nchembio/rss/current/~4/rRo1Xi82U7c (image)

@@ -1,0 +1,43 @@
+Title: A molecular biologist’s delightful trading cards of deadly viruses
+Author: Anne Quito
+Date: Fri, 15 Apr 2016 18:24:21 +0200
+Link: http://qz.com/662037/a-molecular-biologists-delightful-trading-cards-of-deadly-viruses/
+Podcast Download URL: https://qzprod.files.wordpress.com/2016/04/03-25-16-3.gif?w=320
+
+[image 1]
+
+Up close, deadly viruses are like snowflakes, says Eleanor Lutz[2], a first 
+year PhD biology student at the University of Washington and self-described 
+infographics fanatic.
+
+As an experiment, she created a set of beautifully rendered virus trading cards[3]
+depicting the molecular structure of dengue, adenovirus, HPV and chlorella. 
+“Viruses are surprisingly symmetrical, and I love them because they remind me 
+of a biological version of snowflakes,” she writes on her blog[3]. Each 
+animated “trading card” also contains the virus’s killer stats including its 
+Protein Data Bank[4] ID number from the database scientists use to publish 
+newly discovered protein structures.
+
+Lutz, who is studying the neurobiology of dengue-spreading mosquitos, says that
+was inspired to make the cards after learning how to use a molecular modeling 
+program called Chimera[5]. “I thought it was a really fun and powerful program 
+so I decided to see if I could use it in a design project,” Lutz says.
+
+As a careful scientist would, Lutz cited the source of her data, her 
+methodology and published a step-by-step guide[6] on how to make animated 
+infographics on her website.
+[image 7](Eleanor Lutz)[image 8](Eleanor Lutz)[image 9](Eleanor Lutz)[image 10]
+(Eleanor Lutz)[image 11]
+
+Links: 
+[1]: https://qzprod.files.wordpress.com/2016/04/collage-lead-virus.jpg?quality=80&strip=all&w=640 (image)
+[2]: http://tabletopwhale.com/faq.html (link)
+[3]: http://tabletopwhale.com/index.html (link)
+[4]: http://www.rcsb.org/pdb/home/home.do (link)
+[5]: https://www.rbvi.ucsf.edu/Outreach/technotes/ModelGallery/index.html (link)
+[6]: http://tabletopwhale.com/2014/11/03/how-to-make-an-animated-infographic.html (link)
+[7]: https://qzprod.files.wordpress.com/2016/04/03-25-16.gif?w=538 (image)
+[8]: https://qzprod.files.wordpress.com/2016/04/03-25-16-2.gif?w=538 (image)
+[9]: https://qzprod.files.wordpress.com/2016/04/03-25-16-4.gif?w=538 (image)
+[10]: https://qzprod.files.wordpress.com/2016/04/03-25-16-3.gif?w=538 (image)
+[11]: http://pixel.wp.com/b.gif?host=qz.com&blog=39587363&post=662037&subd=qzprod&ref=&feed=1 (image)

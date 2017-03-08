@@ -1,0 +1,9 @@
+Title: An introduction to Machine Learning
+Author: 
+Date: Sun, 17 Jan 2016 07:54:28 +0100
+Link: https://docs.google.com/presentation/d/1O6ozzZHHxGzU-McpvEG09hl7K6oQDd2Taw0FOlnxJc8/edit?usp=docslist_api
+
+Comments[1]
+
+Links: 
+[1]: https://news.ycombinator.com/item?id=10918613 (link)

@@ -1,0 +1,36 @@
+Title: Dynamic Aminal-Based TPA Ligands
+Author: 
+Date: Mon, 27 Apr 2015 06:40:10 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fchem.201500105
+
+Abstract
+
+The use of dynamic covalent reactions (DCRs) is gaining popularity for the 
+construction of self-assembling architectures. We have recently introduced DCRs
+that exchange alcohols and aldehydes to create hemiaminal ethers within 
+tri(2-picolyl)amine (TPA) ligands, all of which are templated by Zn^II. To 
+expand the scope of this assembly, aromatic imines derived from 
+pyridine-2-carboxyaldehyde were explored as dynamic covalent receptors for 
+di(2-picolyl)amine in the presence of Zn^II to create TPA ligands that contain 
+aminal linkages. This represents another metal-templated in situ multicomponent
+assembly. The stability of the assembly was successfully modulated through 
+substituent effects, and the equilibrium constants from imines to aminals were 
+correlated by a linear free energy relationship (LFER) with σ^+ values. Dynamic
+component exchange was investigated as a means of probing multiple equilibriums
+quantitatively in the system. Further, the mechanism was analyzed with a 
+qualitative kinetics study. NMR spectra reveal the different extents of two 
+competing pathways for assembly depending upon whether the aromatic amine has 
+electron-withdrawing or electron-donating groups on the ring. Finally, mass 
+spectral evidence supports the presence and differing extents of dominance of 
+the two pathways as a function of the substituents.
+[image 2: Thumbnail image of graphical abstract][2]
+
+Probing pathways: Dynamic covalent reactions (DCRs) of aromatic amines to 
+create imines that convert to tri(2-picolyl)amine (TPA)-like ligands were 
+studied in detail. The multicomponent assembly was conducted as a means of 
+creating imines in situ and controlling the competing pathway (see figure; 
+DPA=di(2-picolyl)amine).
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/chem.201500105/asset/image_m/mcontent.gif?v=1&s=19a6c00d3e75b464ef04e6ff7567b30cd0bb59f9 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/chem.201500105/asset/image_n/ncontent.gif?v=1&s=2f9fa61c8d0b8dce1d1f133865473300898d78c4 (image)

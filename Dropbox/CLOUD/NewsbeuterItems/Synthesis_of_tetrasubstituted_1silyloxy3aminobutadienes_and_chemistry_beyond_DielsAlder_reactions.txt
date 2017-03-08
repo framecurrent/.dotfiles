@@ -1,0 +1,20 @@
+Title: Synthesis of tetrasubstituted 1-silyloxy-3-aminobutadienes and chemistry beyond Diels–Alder reactions
+Author: 
+Date: Tue, 21 Apr 2015 02:00:00 +0200
+Link: http://feeds.nature.com/~r/ncomms/rss/current/~3/cQApsvqaGPI/ncomms7913
+
+Article
+
+Electron-rich dienes have been shown to have multiple uses in synthesis by 
+means of cycloaddition reactions. Here, the authors report a series of 
+non-cycloaddition-based reactions of these compounds, giving access to 4-, 5-, 
+6- and 7-membered ring systems.
+
+Nature Communications doi: 10.1038/ncomms7913[1]
+
+Authors: Xijian Li, Siyu Peng, Li Li, Yong Huang
+[image 2]
+
+Links: 
+[1]: http://dx.doi.org/10.1038/ncomms7913 (link)
+[2]: http://feeds.feedburner.com/~r/ncomms/rss/current/~4/cQApsvqaGPI (image)

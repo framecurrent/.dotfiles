@@ -1,0 +1,32 @@
+Title: Reactive Oxygen Species Play an Important Role in the Bactericidal Activity of Quinolone Antibiotics
+Author: 
+Date: Tue, 12 Jan 2016 03:10:25 +0100
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fanie.201509340
+
+Abstract
+
+Recent studies posit that reactive oxygen species (ROS) contribute to the cell 
+lethality of bactericidal antibiotics. However, this conjecture has been 
+challenged and remains controversial. To resolve this controversy, we adopted a
+strategy that involves DNA polymerase IV (PolIV). The nucleotide pool of the 
+cell gets oxidized by ROS and PolIV incorporates the damaged nucleotides 
+(especially 8oxodGTP) into the genome, which results in death of the bacteria. 
+By using a combination of structural and biochemical tools coupled with growth 
+assays, it was shown that selective perturbation of the 8oxodGTP incorporation 
+activity of PolIV results in considerable enhancement of the survival of 
+bacteria in the presence of the norfloxacin antibiotic. Our studies therefore 
+indicate that ROS induced in bacteria by the presence of antibiotics in the 
+environment contribute significantly to cell lethality.
+[image 2: Thumbnail image of graphical abstract][2]
+
+Double peril: Reactive oxygen species (ROS) oxidize the nucleotide pool and 
+PolIV can incorporate the oxidized nucleotides into DNA. Structural and 
+biochemical studies coupled with in vivo assays show that selective elimination
+of the ability of PolIV to incorporate 8oxodGTP results in improved survival of
+bacteria in the presence of antibiotics. These results indicate that the 
+formation of ROS contributes substantially to the bactericidal activity of 
+antibiotics.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/anie.201509340/asset/image_m/mcontent.jpg?v=1&s=04050f5414d6d97f6ea34118d3391932ee029cde (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/anie.201509340/asset/image_n/ncontent.jpg?v=1&s=0f534d81cdc63970fea8b9f0077fe69203c7646f (image)

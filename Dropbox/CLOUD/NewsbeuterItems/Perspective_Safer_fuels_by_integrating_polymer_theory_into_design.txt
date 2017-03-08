@@ -1,0 +1,21 @@
+Title: [Perspective] Safer fuels by integrating polymer theory into design
+Author: Science Magazine (mailto:soleditor@aaas.org)
+Date: Fri, 02 Oct 2015 03:00:00 +0200
+Link: http://www.sciencemag.org/content/350/6256/32.abstract?rss=1
+
+For the past few decades, the civil aviation industry has increased its efforts
+to prevent fuel fires initiated by aviation crashes by improving fuel safety 
+and handling. These fires are estimated to be responsible for 40% of 
+fatalities, corresponding to approximately 500 to 1000 deaths that could be 
+minimized annually with improved fire-safe fuel (1). Fuel fires are also 
+increasingly becoming a hazard to homeland security, as seen in the example of 
+the September 11, 2001 attacks on the World Trade Centers (2). The mist is much
+more flammable than the liquid, and antimisting kerosene (AMK) interferes with 
+mist formation by incorporating a low concentration (<>0.3 weight percent) of 
+high molecular weight polymer; (FM-9) into Jet-A fuel (3). However, routine 
+handling (e.g., passage through pumps) (see the photo) breaks the polymer chain
+through hydrodynamic tension, and it becomes inadequate for mist suppression 
+(4). The challenge is to find a mist-control polymer that is stable at handling
+conditions. On page 72 of this issue, Wei et al. (5) show how telechelic 
+polymers that break and reassemble can be effective mist suppressors under real
+handling and fuel-injection conditions. Authors: Michael Jaffe, Sahitya Allam

@@ -1,0 +1,34 @@
+Title: Mechanochemical Encapsulation of Fullerenes in Peptidic Containers Prepared by Dynamic Chiral Self-Sorting and Self-Assembly
+Author: 
+Date: Mon, 25 Jan 2016 11:28:52 +0100
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fchem.201504451
+
+Abstract
+
+Molecular capsules composed of amino acid or peptide derivatives connected to 
+resorcin[4]arene scaffolds through acylhydrazone linkers have been synthesized 
+using dynamic covalent chemistry (DCC) and hydrogen-bond-based self-assembly. 
+The dynamic character of the linkers and the preference of the peptides towards
+self-assembly into β-barrel-type motifs lead to the spontaneous amplification 
+of formation of homochiral capsules from mixtures of different substrates. The 
+capsules have cavities of around 800 Å^3 and exhibit good kinetic stability. 
+Although they retain their dynamic character, which allows processes such as 
+chiral self-sorting and chiral self-assembly to operate with high fidelity, 
+guest complexation is hindered in solution. However, the quantitative 
+complexation of even very large guests, such as fullerene C[60] or C[70], is 
+possible through the utilization of reversible covalent bonds or the 
+application of mechanochemical methods. The NMR spectra show the influence of 
+the chiral environment on the symmetry of the fullerene molecules, which 
+results in the differentiation of diastereotopic carbon atoms for C[70], and 
+the X-ray structures provide unique information on the modes of 
+peptide–fullerene interactions.
+[image 2: Thumbnail image of graphical abstract][2]
+
+Molecular capsules: Peptidic capsules based on minimal β-barrel motifs have 
+been formed from short peptides and a dynamic covalent chemistry approach. The 
+complexation of fullerenes (see figure), used as surface-inactive probes, was 
+achieved by chemical and mechanochemical methods.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/chem.201504451/asset/image_m/chem201504451-toc-0001-m.png?v=1&s=d76a86ea5384230821e5e7b115f4950b2512cc9e (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/chem.201504451/asset/image_n/chem201504451-toc-0001.png?v=1&s=5503dc1243b336f79167843d9474efbeb821d02c (image)

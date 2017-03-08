@@ -1,0 +1,73 @@
+Title: Catalysis and Biocatalysis
+Author: 
+Date: Thu, 06 Aug 2015 07:16:00 +0200
+Link: http://www.grants.gov/web/grants/view-opportunity.html?oppId=278091
+
+Funding Opportunity Number:      PD-15-1401                                                                     
+Opportunity Category:            Discretionary                                                                  
+Funding Instrument Type:         Grant                                                                          
+Category of Funding Activity:    Science and Technology and other Research and Development                      
+CFDA Number:                     47.041                                                                         
+Eligible Applicants              Unrestricted (i.e., open to any type of entity above), subject to any          
+                                 clarification in text field entitled "Additional Information on Eligibility"   
+Agency Name:                     NSF                                                                            
+Closing Date:                    Oct 20, 2015                                                                   
+Award Ceiling:                                                                                                  
+Expected Number of Awards:                                                                                      
+Creation Date:                   Jul 24, 2015                                                                   
+Funding Opportunity Description: The goal of theCatalysis and Biocatalysisprogram is to advance research in     
+                                 catalytic engineering science and promote the development of catalytic         
+                                 materials and reactions that are of benefit to society. Research in this       
+                                 program should focus on new basic understanding of catalytic materials and     
+                                 reactions, utilizing synthetic, theoretical, and experimental approaches.      
+                                 Target applications include fuels, specialty and bulk chemicals, environmental 
+                                 catalysis, biomass conversion to fuels and chemicals, conversion of greenhouse 
+                                 gases, and generation of solar hydrogen, as well as efficient routes to energy 
+                                 utilization. Heterogeneous catalysis and biocatalysis represent the main       
+                                 thrusts of the program. Proposals related to both gas-solid and liquid-solid   
+                                 heterogeneous catalysis are welcome, as are proposals that incorporate concepts
+                                 from homogeneous catalysis. Biocatalysis proposals should focus on enzymatic   
+                                 catalysis involving engineering of the active site involved in substrate       
+                                 conversion. Topic areas that are of particular interest include:               
+                                                                                                                
+                                   * Renewable energy-related catalysis (including applications related to      
+                                 biocatalysis, biomass refining, electrocatalysis, and photocatalysis).         
+                                   * Catalysis aimed at closing the carbon cycle (especially conversion of CO[2]
+                                 , methane, and natural gas to fuels and chemical intermediates).               
+                                   * Catalytic alternatives to traditionally non-catalytic reaction processes,  
+                                 as well as new catalyst designs for established catalytic processes.           
+                                   * Environmental catalysis (including energy-efficient and green routes to    
+                                 fuels and chemicals).                                                          
+                                   * Catalytic remediation of feedstocks, process streams, products, or         
+                                 effluents.                                                                     
+                                   * Commercially scalable methods of catalyst synthesis.                       
+                                   * New catalytic materials and architectures (especially those substituting   
+                                 earth-abundant materials for precious and noble metal catalysts).              
+                                   * Basic understanding of catalytic materials, reaction pathways, kinetics,   
+                                 and surface mechanisms.                                                        
+                                   * Durable, poison-resistant, and easily regenerable catalyst formulations and
+                                 designs.                                                                       
+                                   * Advances in tools for catalyst characterization and                        
+                                 theoretical/computational catalysis.                                           
+                                                                                                                
+                                 Projects that are interdisciplinary in nature may be jointly funded with other 
+                                 CBET and NSF programs. NOTE:For catalysis proposals involving aspects of       
+                                 sustainable chemistry, consider making proposal submissions to this program    
+                                 (1401) with the Proposal Title as:‘SusChEM: Title of Your Proposal'. For more  
+                                 information on SusChEM-related proposals click here[1]. The same applies for   
+                                 proposals involving sustainable engineering. For proposals focusing more       
+                                 broadly on cellular and biomolecular processes, consider submitting to         
+                                 Biotechnology and Biochemical Engineering (CBET 1491). If the proposal focuses 
+                                 on reaction engineering aspects of catalytic processes, submit to Process      
+                                 Systems, Reaction Engineering, and Molecular Thermodynamics (CBET 1403). If the
+                                 emphasis is on renewable or sustainable energy systems as a whole, with        
+                                 catalysis as a sub-component, submit to Energy for Sustainability (CBET 7644). 
+                                 Keep in mind that the involved program directors will review the submissions   
+                                 and may transfer your proposal to give it the best review situation. Innovative
+                                 proposals outside of these specific interest areas may be considered. However, 
+                                 prior to submission, it is recommended that the PI contact the Program Director
+                                 to avoid the possibility of the proposal being returned without review. Normal0
+                                 falsefalsefalseEN-USJAX-NONE                                                   
+
+Links: 
+[1]: http://www.nsf.gov/pubs/2015/nsf15085/nsf15085.jsp (link)

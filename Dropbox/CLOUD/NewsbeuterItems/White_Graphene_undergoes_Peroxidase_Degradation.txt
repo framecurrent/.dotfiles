@@ -1,0 +1,32 @@
+Title: White Graphene undergoes Peroxidase Degradation
+Author: 
+Date: Thu, 24 Mar 2016 12:29:25 +0100
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fanie.201601238
+
+Abstract
+
+Hexagonal boron nitride (hBN) nanosheets are emerging as promising 2D materials
+for different types of applications. However, biodegradation of hBN materials 
+is poorly explored owing to their high chemical inertness and strong oxidation 
+resistance. The assessment of oxidation/biodegradation of hBN is important in 
+developing biomedical tools. Herein, we report the first study on the 
+biodegradability of hBN nanosheets comparing the enzymatic catalysis of two 
+different peroxidases, horseradish peroxidase (HRP) and human myeloperoxidase 
+(MPO), with the photo-Fenton (P.F.) reaction. The results show that degradation
+of hBN nanosheets is different to that of graphene and graphene oxide, since 
+partial oxidation was found using MPO after 35 h, while HRP failed to degrade 
+hBN up to 60 days. Nearly complete oxidation/degradation was occurred by P.F. 
+reaction in 100 h. These results are helpful in designing advanced conjugates 
+for biomedical uses of hBN.
+[image 2: Thumbnail image of graphical abstract][2]
+
+Between the sheets: Biodegradability of hexagonal boron nitride (hBN) 
+nanosheets was investigated using different conditions including treatment with
+human myeloperoxidase (MPO) and the UV-assisted photo-Fenton (P.F.) reaction. 
+The photo-Fenton reaction almost completely degrades hBN nanosheets. These 
+studies are important for designing safer hBN-based materials for biomedical 
+uses and polymer-composites.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/anie.201601238/asset/image_m/anie201601238-toc-0001-m.png?v=1&s=bb740b1d4968061a30a28366aaeff57d70e9b137 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/anie.201601238/asset/image_n/anie201601238-toc-0001.png?v=1&s=576fe207b740cd506e6d4729c188cbce26f553c5 (image)

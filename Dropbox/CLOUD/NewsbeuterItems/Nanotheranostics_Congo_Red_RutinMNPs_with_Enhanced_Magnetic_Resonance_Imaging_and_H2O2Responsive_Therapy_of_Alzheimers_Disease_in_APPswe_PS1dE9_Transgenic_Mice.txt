@@ -1,0 +1,18 @@
+Title: Nanotheranostics: Congo Red/Rutin-MNPs with Enhanced Magnetic Resonance Imaging and H2O2-Responsive Therapy of Alzheimer's Disease in APPswe/PS1dE9 Transgenic Mice
+Author: 
+Date: Thu, 13 Aug 2015 16:32:35 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fadma.201502227
+
+[image 2][1]
+
+As nanotheranostics, Congo red/Rutin-MNPs combine the abilities of diagnosis 
+and treatment of Alzheimer's disease (AD). The biocompatible nanotheranostics 
+system based on iron oxide magnetic nanoparticles, with ultrasmall size and 
+excellent magnetic properties, can specifically detect amyloid plaques by 
+magnetic resonance imaging, realize targeted delivery of AD therapeutic agents,
+achieve drug controlled release by H[2]O[2] response, and prevent oxidative 
+stress. 
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/adma.201502227/asset/image_m/adma201502227-gra-0001-m.png?v=1&s=3233b3835d48377be0d62bf7c28665cecbf268ba (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/adma.201502227/asset/image_n/adma201502227-gra-0001.png?v=1&s=b54a8d47cbdccb7998e911cb958b95a0256a343a (image)

@@ -1,0 +1,13 @@
+Title: Carbohydrate anomalies in the PDB
+Author: 
+Date: Fri, 17 Apr 2015 02:00:00 +0200
+Link: http://feeds.nature.com/~r/nchembio/rss/current/~3/uUpvc3zkCSo/nchembio.1798
+
+Nature Chemical Biology 11, 303 (2015). doi:10.1038/nchembio.1798[1]
+
+Authors: Jon Agirre, Gideon Davies, Keith Wilson & Kevin Cowtan
+[image 2]
+
+Links: 
+[1]: http://dx.doi.org/10.1038/nchembio.1798 (link)
+[2]: http://feeds.feedburner.com/~r/nchembio/rss/current/~4/uUpvc3zkCSo (image)

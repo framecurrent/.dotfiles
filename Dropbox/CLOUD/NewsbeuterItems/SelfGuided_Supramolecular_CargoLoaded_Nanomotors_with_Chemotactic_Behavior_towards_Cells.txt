@@ -1,0 +1,31 @@
+Title: Self-Guided Supramolecular Cargo-Loaded Nanomotors with Chemotactic Behavior towards Cells
+Author: 
+Date: Fri, 14 Aug 2015 08:30:22 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fanie.201504186
+
+Abstract
+
+Delivery vehicles that are able to actively seek and precisely locate targeted 
+tissues using concentration gradients of signaling molecules have hardly been 
+explored. The directed movement toward specific cell types of cargo-loaded 
+polymeric nanomotors along a hydrogen peroxide concentration gradient 
+(chemotaxis) is reported. Through self-assembly, bowl-shaped poly(ethylene 
+glycol)-b-polystyrene nanomotors, or stomatocytes, were formed with platinum 
+nanoparticles entrapped in the cavity while a model drug was encapsulated in 
+the inner compartment. Directional movement of the stomatocytes in the presence
+of a fuel gradient (chemotaxis) was first demonstrated in both static and 
+dynamic systems using glass channels and a microfluidic flow. The highly 
+efficient response of these motors was subsequently shown by their directional 
+and autonomous movement towards hydrogen peroxide secreting neutrophil cells.
+[image 2][1]
+
+Chemotactic nanoparticles: Platinum-loaded polystyrene nanoparticles were shown
+to exhibit directional movement along hydrogen peroxide gradients in both 
+static and flowing systems. Furthermore, the nanoparticles could encapsulate 
+the model cancer drug doxorubicin and migrate towards hydrogen 
+peroxide-producing neutrophil cells, suggesting such nanoparticles could be 
+used as drug delivery vehicles.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/anie.201504186/asset/image_m/mcontent.gif?v=1&s=0e498addb5c97f1131bf4098e79d2b67517dad76 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/anie.201504186/asset/image_n/ncontent.gif?v=1&s=fc166eceb95caa05c0e4dc037479c49c177bf8c5 (image)

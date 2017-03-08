@@ -1,0 +1,18 @@
+Title: Design, Preparation, and Selection of DNA-encoded Dynamic Libraries
+Author: Xiaoyu Li
+Date: Sat, 12 Sep 2015 08:53:38 +0200
+Link: http://feeds.rsc.org/~r/rss/SC/~3/pbJVN4vTzBc/C5SC02467F
+
+Chem. Sci., 2015, Accepted ManuscriptDOI: 10.1039/C5SC02467F, Edge Article[image 1]
+Open Access[image 3][2]nbsp This article is licensed under a Creative Commons 
+Attribution 3.0 Unported Licence.[2]Gang Li, Wenlu Zheng, Zitian Chen, Yu Zhou,
+Yu Liu, Junrui Yang, Yanyi Huang, Xiaoyu LiWe report a method for the 
+preparation and selection of DNA-encoded dynamic libraries (DEDLs). The library
+is composed of two sets of DNA-linked small molecules under dynamic exchange 
+through DNA...The content of this RSS Feed (c) The Royal Society of Chemistry[image 4]
+
+Links: 
+[1]: http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/open_access_blue.png (image)
+[2]: http://creativecommons.org/licenses/by/3.0/ (link)
+[3]: http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/CCBY.png (image)
+[4]: http://feeds.feedburner.com/~r/rss/SC/~4/pbJVN4vTzBc (image)

@@ -1,0 +1,30 @@
+Title: Visible-Light-Induced Click Chemistry
+Author: 
+Date: Tue, 14 Jul 2015 10:53:17 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fanie.201504716
+
+Abstract
+
+A rapid and catalyst-free cycloaddition system for visible-light-induced click 
+chemistry is reported. A readily accessible photoreactive 2H-azirine moiety was
+designed to absorb light at wavelengths above 400 nm. Irradiation with 
+low-energy light sources thus enables efficient small-molecule synthesis with a
+diverse range of multiple-bond-containing compounds. Moreover, in order to 
+demonstrate the efficiency of the current approach, quantitative ligation of 
+the photoactivatable chromophore with functional polymeric substrates was 
+performed and full conversion with irradiation times of only 1 min at ambient 
+conditions was achieved. The current report thus presents a highly efficient 
+method for applications involving selective cycloaddition to electron-deficient
+multiple-bond-containing materials.
+[image 2][1]
+
+Quick as a flash: A rapid and catalyst-free cycloaddition system for 
+visible-light-induced click chemistry at ambient conditions is reported. 
+Irradiation of a 2H-azirine moiety with low-energy light sources enables 
+efficient small-molecule synthesis with a diverse range of 
+multiple-bond-containing compounds, as well as rapid quantitative ligation of 
+the photoactivatable chromophore with polymeric substrates.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/anie.201504716/asset/image_m/mcontent.gif?v=1&s=623196709b7a31bfcbd6dc3a18d942186cd75f59 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/anie.201504716/asset/image_n/ncontent.gif?v=1&s=3f4db72da84e478fd45512a6338f23cc801be512 (image)

@@ -1,0 +1,33 @@
+Title: Nonfunctionalized Gold Nanoparticles: Synthetic Routes and Synthesis Condition Dependence
+Author: 
+Date: Mon, 13 Apr 2015 05:10:11 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fchem.201405117
+
+Abstract
+
+Since Faraday first described gold sol synthesis, synthetic routes to 
+nanoparticles, as well as their applications, have experienced a huge growth. 
+Variations in synthesis conditions such as pH, temperature, reduction, and the 
+stabilizing agent used will determine the morphology, size, monodispersity, and
+stability of nanoparticles obtained, allowing for modulation of their physical 
+and chemical properties. Although many studies have been made about the 
+synthesis and characterization of individual nanosystems of interest, to our 
+knowledge the common, general traits that all those synthesis share have not 
+been previously compiled. In this review, we aim to offer a global vision of 
+some of the most relevant synthetic procedures reported up to date, with a 
+special focus on nonfunctionalized gold nanoparticle synthetic routes in 
+aqueous media, and to display a broad overview of the influence that synthesis 
+conditions have on the shape, stability, and reactivity of nanoparticle 
+systems.
+[image 2: Thumbnail image of graphical abstract][2]
+
+Going for gold: The optical and physical properties of gold nanoparticles are 
+strongly dependent on their synthesis conditions. In this review, a 
+comprehensive view of the influence of several synthesis factors, such as pH, 
+reducing or capping agents, or temperature, is presented in order to help 
+ascertain their influence on the shape and stability of the resulting 
+nanosystems (see figure).
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/chem.201405117/asset/image_m/mcontent.gif?v=1&s=e43efcd25722f584f62aec46a18e6bc377c78721 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/chem.201405117/asset/image_n/ncontent.gif?v=1&s=28bf38c9582cf9b0655ce2ad1262529089243e7d (image)

@@ -1,0 +1,24 @@
+Title: Next-Generation o-Nitrobenzyl Photolabile Groups for Light-Directed Chemistry and Microarray Synthesis
+Author: 
+Date: Wed, 03 Jun 2015 08:30:19 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fanie.201502125
+
+Abstract
+
+Light as an external trigger is a valuable and easily controllable tool for 
+directing chemical reactions with high spatial and temporal accuracy. Two o
+-nitrobenzyl derivatives, benzoyl- and thiophenyl-NPPOC, undergo 
+photo-deprotection with significantly improved efficiency over that of the 
+commonly used NPPOC group. The two- and twelvefold increase in 
+photo-deprotection efficiency was proven using photolithograph synthesis of 
+microarrays.
+[image 2][1]
+
+High-speed photolysis: The highly light-sensitive groups benzoyl- and 
+thiophenyl-NPPOC (NPPOC=2-(2-nitrophenyl)propoxycarbonyl) were used for 
+light-directed, spatio-selective synthesis. Their photolytic efficiencies are 
+two- and twelvefold greater than that of NPPOC, respectively.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/anie.201502125/asset/image_m/mcontent.gif?v=1&s=2745313592bebbf442db85e86505cf1fc31dbed4 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/anie.201502125/asset/image_n/ncontent.gif?v=1&s=72ab2360a1009ced0e036d7963853e2dd2ea00be (image)

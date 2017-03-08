@@ -1,0 +1,29 @@
+Title: Stereoretentive Palladium-Catalyzed Arylation, Alkenylation, and Alkynylation of 1-Thiosugars and Thiols Using Aminobiphenyl Palladacycle Precatalyst at Room Temperature
+Author: 
+Date: Wed, 15 Apr 2015 16:40:27 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fchem.201501050
+
+Abstract
+
+A general and efficient protocol for the palladium-catalyzed functionalization 
+of mono- and polyglycosyl thiols by using the palladacycle precatalyst 
+G3-XantPhos was developed. The C[image 1]S bond-forming reaction was achieved 
+rapidly at room temperature with various functionalized (hetero)aryl-, 
+alkenyl-, and alkynyl halides. The functional group tolerance on the 
+electrophilic partner is typically high and anomer selectivities of 
+thioglycosides are high in all cases studied. New sulfur nucleophiles such as 
+thiophenols, alkythiols, and thioaminoacids (cysteine) were also successfully 
+coupled to lead to the most general and practical method yet reported for the 
+functionalization of thiols.
+[image 3: Thumbnail image of graphical abstract][3]
+
+Sweet and efficient: A general and efficient protocol for the 
+palladium-catalyzed functionalization of mono- and polyglycosyl thiols by using
+the palladacycle precatalyst G3-XantPhos was developed. The C[image 1]S 
+bond-forming reaction was achieved rapidly at room temperature with various 
+functionalized (hetero)aryl-, alkenyl-, and alkynyl halides (see scheme).
+
+Links: 
+[1]: http://onlinelibrarystatic.wiley.com/undisplayable_characters/00f8ff.gif (image)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/chem.201501050/asset/image_m/mcontent.gif?v=1&s=f9531fd43582b1e6d6b921d62ff843c3adcdad1f (link)
+[3]: http://onlinelibrary.wiley.com/store/10.1002/chem.201501050/asset/image_n/ncontent.gif?v=1&s=36cf4d7c821c3012ffa26a3b11a3ede2f582d742 (image)

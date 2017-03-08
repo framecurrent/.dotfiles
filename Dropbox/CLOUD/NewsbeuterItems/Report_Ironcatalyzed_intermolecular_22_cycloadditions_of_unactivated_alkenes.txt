@@ -1,0 +1,16 @@
+Title: [Report] Iron-catalyzed intermolecular [2+2] cycloadditions of unactivated alkenes
+Author: Science Magazine (mailto:soleditor@aaas.org)
+Date: Fri, 28 Aug 2015 03:00:00 +0200
+Link: http://www.sciencemag.org/content/349/6251/960.summary?rss=1
+
+Cycloadditions, such as the [4+2] Diels-Alder reaction to form six-membered 
+rings, are among the most powerful and widely used methods in synthetic 
+chemistry. The analogous [2+2] alkene cycloaddition to synthesize cyclobutanes 
+is kinetically accessible by photochemical methods, but the substrate scope and
+functional group tolerance are limited. Here, we report iron-catalyzed 
+intermolecular [2+2] cycloaddition of unactivated alkenes and cross 
+cycloaddition of alkenes and dienes as regio- and stereoselective routes to 
+cyclobutanes. Through rational ligand design, development of this base 
+metal–catalyzed method expands the chemical space accessible from abundant 
+hydrocarbon feedstocks. Authors: Jordan M. Hoyt, Valerie A. Schmidt, Aaron M. 
+Tondreau, Paul J. Chirik

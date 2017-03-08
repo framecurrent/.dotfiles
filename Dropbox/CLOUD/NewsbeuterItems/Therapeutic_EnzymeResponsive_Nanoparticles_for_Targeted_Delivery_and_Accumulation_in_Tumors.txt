@@ -1,0 +1,16 @@
+Title: Therapeutic Enzyme-Responsive Nanoparticles for Targeted Delivery and Accumulation in Tumors
+Author: 
+Date: Tue, 14 Jul 2015 11:44:16 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fadma.201501803
+
+[image 2][1]
+
+An enzyme-responsive, paclitaxel-loaded nanoparticle is described and assessed 
+in vivo in a human fibrosarcoma murine xenograft. This work represents a 
+proof-of-concept study demonstrating the utility of enzyme-responsive nanoscale
+drug carriers capable of targeted accumulation and retention in tumor tissue in
+response to overexpressed endogenous enzymes. 
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/adma.201501803/asset/image_m/adma201501803-gra-0001-m.png?v=1&s=dd7d383b681309d9df456da552528781b6b941f6 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/adma.201501803/asset/image_n/adma201501803-gra-0001.png?v=1&s=bc866611d9ceed3feb6c2e1f7595da81af1ddf46 (image)

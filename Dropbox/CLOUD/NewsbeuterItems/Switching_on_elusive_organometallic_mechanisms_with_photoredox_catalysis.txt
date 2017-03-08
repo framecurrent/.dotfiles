@@ -1,0 +1,36 @@
+Title: Switching on elusive organometallic mechanisms with photoredox catalysis
+Author: 
+Date: Wed, 12 Aug 2015 03:00:00 +0200
+Link: http://feeds.nature.com/~r/nature/rss/current/~3/kfD4F_i4J10/nature14875
+
+Switching on elusive organometallic mechanisms with photoredox catalysis
+
+Nature 524, 7565 (2015). doi:10.1038/nature14875[1]
+
+Authors: Jack A. Terrett, James D. Cuthbertson, Valerie W. Shurtleff & David W.
+C. MacMillan
+
+Transition-metal-catalysed cross-coupling reactions have become one of the most
+used carbon–carbon and carbon–heteroatom bond-forming reactions in chemical 
+synthesis. Recently, nickel catalysis has been shown to participate in a wide 
+variety of C−C bond-forming reactions, most notably Negishi, Suzuki–Miyaura, 
+Stille, Kumada and Hiyama couplings. Despite the tremendous advances in C−C 
+fragment couplings, the ability to forge C−O bonds in a general fashion via 
+nickel catalysis has been largely unsuccessful. The challenge for 
+nickel-mediated alcohol couplings has been the mechanistic requirement for the 
+critical C–O bond-forming step (formally known as the reductive elimination 
+step) to occur via a Ni(iii) alkoxide intermediate. Here we demonstrate that 
+visible-light-excited photoredox catalysts can modulate the preferred oxidation
+states of nickel alkoxides in an operative catalytic cycle, thereby providing 
+transient access to Ni(iii) species that readily participate in reductive 
+elimination. Using this synergistic merger of photoredox and nickel catalysis, 
+we have developed a highly efficient and general carbon–oxygen coupling 
+reaction using abundant alcohols and aryl bromides. More notably, we have 
+developed a general strategy to ‘switch on’ important yet elusive 
+organometallic mechanisms via oxidation state modulations using only weak light
+and single-electron-transfer catalysts.
+[image 2]
+
+Links: 
+[1]: http://dx.doi.org/10.1038/nature14875 (link)
+[2]: http://feeds.feedburner.com/~r/nature/rss/current/~4/kfD4F_i4J10 (image)

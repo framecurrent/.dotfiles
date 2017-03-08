@@ -1,0 +1,23 @@
+Title: Deoxynybomycins inhibit mutant DNA gyrase and rescue mice infected with fluoroquinolone-resistant bacteria
+Author: 
+Date: Fri, 24 Apr 2015 02:00:00 +0200
+Link: http://feeds.nature.com/~r/ncomms/rss/current/~3/X6VQy1y93mo/ncomms7947
+
+Article
+
+Fluoroquinolone antibiotics are widely used to treat serious bacterial 
+infections, but resistance is an increasing problem. Here the authors describe 
+the synthesis and characterization of novel deoxynybomycin derivatives that 
+exhibit activity against fluoroquinolone-resistant infections in an in vivo 
+model.
+
+Nature Communications doi: 10.1038/ncomms7947[1]
+
+Authors: Elizabeth I. Parkinson, Joseph S. Bair, Bradley A. Nakamura, Hyang Y. 
+Lee, Hani I. Kuttab, Emma H. Southgate, Stéphane Lezmi, Gee W. Lau, Paul J. 
+Hergenrother
+[image 2]
+
+Links: 
+[1]: http://dx.doi.org/10.1038/ncomms7947 (link)
+[2]: http://feeds.feedburner.com/~r/ncomms/rss/current/~4/X6VQy1y93mo (image)

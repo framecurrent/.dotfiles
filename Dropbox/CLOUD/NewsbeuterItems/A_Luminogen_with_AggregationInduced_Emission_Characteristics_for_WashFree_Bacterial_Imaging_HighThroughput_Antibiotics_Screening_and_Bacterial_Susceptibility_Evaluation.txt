@@ -1,0 +1,17 @@
+Title: A Luminogen with Aggregation-Induced Emission Characteristics for Wash-Free Bacterial Imaging, High-Throughput Antibiotics Screening and Bacterial Susceptibility Evaluation
+Author: 
+Date: Tue, 14 Jul 2015 13:22:18 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fadma.201501972
+
+[image 2][1]
+
+A luminogen with aggregation-induced emission characteristics is reported for 
+bacterial imaging and antibiotics screening studies. The luminogen can light up
+bacteria in a wash-free manner, which simplifies the imaging process and 
+increases its accuracy in bacterial detection. It can also be applied to 
+high-throughput screening of antibiotics and fast evaluation of bacterial 
+susceptibility, giving reliable results in less than 5 h. 
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/adma.201501972/asset/image_m/adma201501972-gra-0001-m.png?v=1&s=db510f7e10edf0254bb114eb478b249b1dde52f6 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/adma.201501972/asset/image_n/adma201501972-gra-0001.png?v=1&s=8b615ef5458b35c2131f0e24115f0d54373bf94d (image)

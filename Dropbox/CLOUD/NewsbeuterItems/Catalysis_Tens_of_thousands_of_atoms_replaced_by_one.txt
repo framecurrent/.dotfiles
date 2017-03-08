@@ -1,0 +1,20 @@
+Title: Catalysis: Tens of thousands of atoms replaced by one
+Author: 
+Date: Wed, 16 Sep 2015 03:00:00 +0200
+Link: http://feeds.nature.com/~r/nature/rss/current/~3/b2enqTWRXwM/525325a
+
+Catalysis: Tens of thousands of atoms replaced by one
+
+Nature 525, 7569 (2015). doi:10.1038/525325a[1]
+
+Authors: John Meurig Thomas
+
+Many catalysts comprise metal nanoparticles on solid supports. The discovery 
+that single atoms of palladium anchored to a solid support also exhibit high 
+catalytic activity might help to conserve the supply of this and related rare 
+metals.
+[image 2]
+
+Links: 
+[1]: http://dx.doi.org/10.1038/525325a (link)
+[2]: http://feeds.feedburner.com/~r/nature/rss/current/~4/b2enqTWRXwM (image)

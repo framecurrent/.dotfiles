@@ -1,0 +1,20 @@
+Title: Organic chemistry: Streamlining drug synthesis
+Author: 
+Date: Wed, 15 Apr 2015 02:00:00 +0200
+Link: http://feeds.nature.com/~r/nature/rss/current/~3/yLexNf59Z5k/520302a
+
+Organic chemistry: Streamlining drug synthesis
+
+Nature 520, 7547 (2015). doi:10.1038/520302a[1]
+
+Authors: Joel M. Hawkins
+
+Drug manufacture can benefit from flow synthesis, in which raw materials are 
+fed into a sequence of reactors, producing the drug as a continuous output. A 
+flow strategy that capitalizes on solid catalysts has now been realized. See 
+Letter p.329
+[image 2]
+
+Links: 
+[1]: http://dx.doi.org/10.1038/520302a (link)
+[2]: http://feeds.feedburner.com/~r/nature/rss/current/~4/yLexNf59Z5k (image)

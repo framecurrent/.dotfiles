@@ -1,0 +1,30 @@
+Title: London Dispersion in Molecular Chemistry—Reconsidering Steric Effects
+Author: 
+Date: Tue, 11 Aug 2015 10:10:06 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fanie.201503476
+
+Abstract
+
+London dispersion, which constitutes the attractive part of the famous van der 
+Waals potential, has long been underappreciated in molecular chemistry as an 
+important element of structural stability, and thus affects chemical reactivity
+and catalysis. This negligence is due to the common notion that dispersion is 
+weak, which is only true for one pair of interacting atoms. For increasingly 
+larger structures, the overall dispersion contribution grows rapidly and can 
+amount to tens of kcal mol^−1. This Review collects and emphasizes the 
+importance of inter- and intramolecular dispersion for molecules consisting 
+mostly of first row atoms. The synergy of experiment and theory has now reached
+a stage where dispersion effects can be examined in fine detail. This forces us
+to reconsider our perception of steric hindrance and stereoelectronic effects. 
+The quantitation of dispersion energy donors will improve our ability to design
+sophisticated molecular structures and much better catalysts.
+[image 2][1]
+
+Center of attraction: Dispersion attraction makes all the difference in the 
+stability of molecular structures, reactivity, and the design of catalysts. 
+Although small for one pair of interactions, dispersion grows rapidly as the 
+molecular size increases.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/anie.201503476/asset/image_m/mcontent.gif?v=1&s=aa327a96247ad8aeb990bf25d3a5c5e1db99faac (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/anie.201503476/asset/image_n/ncontent.gif?v=1&s=48c26a69e644fa23eaf9a6965f0b835d74d121b4 (image)

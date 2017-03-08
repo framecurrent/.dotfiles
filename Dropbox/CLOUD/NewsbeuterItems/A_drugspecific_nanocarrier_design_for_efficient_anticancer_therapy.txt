@@ -1,0 +1,20 @@
+Title: A drug-specific nanocarrier design for efficient anticancer therapy
+Author: 
+Date: Thu, 09 Jul 2015 03:00:00 +0200
+Link: http://feeds.nature.com/~r/ncomms/rss/current/~3/GIYynQp_iW0/ncomms8449
+
+Article
+
+Telodendrimers are versatile and robust nanoparticle-based drug carriers. From 
+a screen of potential small-molecule building blocks, Shi et al. identify 
+rhein-containing telodendrimers as stable and effective nanocarriers of 
+doxorubicin for treating a xenograft Raji lymphoma model.
+
+Nature Communications doi: 10.1038/ncomms8449[1]
+
+Authors: Changying Shi, Dandan Guo, Kai Xiao, Xu Wang, Lili Wang, Juntao Luo
+[image 2]
+
+Links: 
+[1]: http://dx.doi.org/10.1038/ncomms8449 (link)
+[2]: http://feeds.feedburner.com/~r/ncomms/rss/current/~4/GIYynQp_iW0 (image)

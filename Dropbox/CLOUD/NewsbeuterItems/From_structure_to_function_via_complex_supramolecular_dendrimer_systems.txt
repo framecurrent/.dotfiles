@@ -1,0 +1,15 @@
+Title: From structure to function via complex supramolecular dendrimer systems
+Author: Virgil Percec
+Date: Mon, 08 Jun 2015 19:48:22 +0200
+Link: http://feeds.rsc.org/~r/rss/CS/~3/X9GUR_ebtbs/C4CS00249K
+
+[image 1]
+Chem. Soc. Rev., 2015, 44,3900-3923DOI: 10.1039/C4CS00249K, Tutorial Review
+Hao-Jan Sun, Shaodong Zhang, Virgil PercecSelf-assembly of quasi-equivalent 
+amphiphilic dendrons into secondary and tertiary structures and their 
+self-organization into periodic arrays.The content of this RSS Feed (c) The 
+Royal Society of Chemistry[image 2]
+
+Links: 
+[1]: http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C4CS00249K (image)
+[2]: http://feeds.feedburner.com/~r/rss/CS/~4/X9GUR_ebtbs (image)

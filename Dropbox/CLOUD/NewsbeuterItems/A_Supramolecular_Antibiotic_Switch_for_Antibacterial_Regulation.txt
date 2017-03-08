@@ -1,0 +1,34 @@
+Title: A Supramolecular Antibiotic Switch for Antibacterial Regulation
+Author: 
+Date: Wed, 26 Aug 2015 09:50:43 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fanie.201504566
+
+Abstract
+
+A supramolecular antibiotic switch is described that can reversibly “turn-on” 
+and “turn-off” its antibacterial activity on demand, providing a 
+proof-of-concept for a way to regulate antibacterial activity of biotics. The 
+switch relies on supramolecular assembly and disassembly of cationic 
+poly(phenylene vinylene) derivative (PPV) with cucurbit[7]uril (CB[7]) to 
+regulate their different interactions with bacteria. This simple but efficient 
+strategy does not require any chemical modification on the active sites of the 
+antibacterial agent, and could also regulate the antibacterial activity of 
+classical antibiotics or photosensitizers in photodynamic therapy. This 
+supramolecular antibiotic switch may be a successful strategy to fight 
+bacterial infections and decrease the emergence of bacterial resistance to 
+antibiotics from a long-term point of view.
+[image 2][1]
+
+A supramolecular antibiotic switch to reversibly “turn-on” and “turn-off” its 
+antibacterial activity on demand was developed as a proof-of-concept to 
+regulate antibacterial activity of biotics. The switch relies on the 
+supramolecular assembly and disassembly of a poly(phenylene vinylene) 
+derivative (PPV) with cucurbit[7]uril (CB[7]) that regulates their interactions
+with bacteria. This strategy does not require any chemical modification on the 
+active sites of the antibacterial agent, and could also regulate the 
+antibacterial activity of classical antibiotics or photosensitizers in 
+photodynamic therapy.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/anie.201504566/asset/image_m/mcontent.jpg?v=1&s=ce143593a0681b79e17538993b267a734907d1e7 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/anie.201504566/asset/image_n/ncontent.jpg?v=1&s=b22df8da5e9f741f4d66abc0f6f743405e7c2e6d (image)

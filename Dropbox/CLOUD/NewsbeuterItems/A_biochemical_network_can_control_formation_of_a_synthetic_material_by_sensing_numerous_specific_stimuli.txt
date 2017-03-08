@@ -1,0 +1,28 @@
+Title: A biochemical network can control formation of a synthetic material by sensing numerous specific stimuli
+Author: 
+Date: Fri, 15 May 2015 03:00:00 +0200
+Link: http://feeds.nature.com/~r/srep/rss/current/~3/kxDp0PJutEk/srep10274
+
+Developing bio-compatible smart materials that assemble in response to 
+environmental cues requires strategies that can discriminate multiple specific 
+stimuli in a complex milieu. Synthetic materials have yet to achieve this level
+of sensitivity, which would emulate the highly evolved and tailored reaction 
+networks of complex biological systems. Here we show that the output of a 
+naturally occurring network can be replaced with a synthetic material. 
+Exploiting the blood coagulation system as an exquisite biological sensor, the 
+fibrin clot end-product was replaced with a synthetic material under the 
+biological control of a precisely regulated cross-linking enzyme. The functions
+of the coagulation network remained intact when the material was incorporated. 
+Clot-like polymerization was induced in indirect response to distinct small 
+molecules, phospholipids, enzymes, cells, viruses, an inorganic solid, a 
+polyphenol, a polysaccharide, and a membrane protein. This strategy 
+demonstrates for the first time that an existing stimulus-responsive biological
+network can be used to control the formation of a synthetic material by diverse
+classes of physiological triggers. 
+
+Scientific Reports 5 doi: 10.1038/srep10274[1]
+[image 2]
+
+Links: 
+[1]: http://dx.doi.org/10.1038/srep10274 (link)
+[2]: http://feeds.feedburner.com/~r/srep/rss/current/~4/kxDp0PJutEk (image)

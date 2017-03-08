@@ -1,0 +1,25 @@
+Title: Isoniazid@Fe2O3 Nanocontainers and Their Antibacterial Effect on Tuberculosis Mycobacteria
+Author: 
+Date: Mon, 31 Aug 2015 09:10:11 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fanie.201505493
+
+Abstract
+
+Isoniazid-filled Fe[2]O[3] hollow nanospheres (INH@Fe[2]O[3], diameter <>30 nm,
+48 wt % INH-load) are prepared for the first time and suggested for 
+tuberculosis therapy. After dextran-functionalization, the INH@Fe[2]O[3]@DEX 
+nanocontainers show strong activity against Mycobacterium tuberculosis (M.tb.) 
+and M.tb.-infected macrophages. The nanocontainers can be considered as “Trojan
+horses” and show efficient, active uptake into both M.tb.-infected macrophages 
+and even into mycobacterial cells.
+[image 2][1]
+
+Like a Trojan horse: Isoniazid-filled Fe[2]O[3] nanocontainers are actively 
+taken up by tuberculosis-infected macrophages and show high activity against 
+the pathogen Mycobacterium tuberculosis (M.tb.). This type of container allows 
+a much higher drug loading than other nanocontainer drug-delivery systems, and 
+has a high biocompatibility and biodegradability.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/anie.201505493/asset/image_m/mcontent.jpg?v=1&s=629eb0685bac1de2c4f93552c8c1ece83d95cc68 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/anie.201505493/asset/image_n/ncontent.jpg?v=1&s=56bbf37dc59881dc34a4f909c3690ca4a338e8a4 (image)

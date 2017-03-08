@@ -1,0 +1,16 @@
+Title: Enzyme immunoassays as screening tools for catalysts and reaction discovery
+Author: Frederic Taran
+Date: Tue, 28 Apr 2015 13:11:36 +0200
+Link: http://feeds.rsc.org/~r/rss/CC/~3/6GHmTfKKGCs/C5CC00599J
+
+[image 1]
+Chem. Commun., 2015, 51,7996-8009DOI: 10.1039/C5CC00599J, Feature Article
+Christophe Creminon, Frederic TaranThis feature article summarizes the 
+development and use of immunoassay techniques (ELISA) as screening tools for 
+fast identification of efficient catalysts in libraries and for the discovery 
+of new chemical reactions.The content of this RSS Feed (c) The Royal Society of
+Chemistry[image 2]
+
+Links: 
+[1]: http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C5CC00599J (image)
+[2]: http://feeds.feedburner.com/~r/rss/CC/~4/6GHmTfKKGCs (image)

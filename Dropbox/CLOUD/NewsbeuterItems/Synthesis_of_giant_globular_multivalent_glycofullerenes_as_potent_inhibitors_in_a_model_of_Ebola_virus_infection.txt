@@ -1,0 +1,24 @@
+Title: Synthesis of giant globular multivalent glycofullerenes as potent inhibitors in a model of Ebola virus infection
+Author: 
+Date: Mon, 09 Nov 2015 00:00:00 +0100
+Link: http://dx.doi.org/10.1038/nchem.2387
+
+[image 1]
+
+Nature Chemistry 8, 50 (2016). doi:10.1038/nchem.2387[2]
+
+Authors: Antonio Muñoz, David Sigwalt, Beatriz M. Illescas, Joanna Luczkowiak, 
+Laura Rodríguez-Pérez, Iwona Nierengarten, Michel Holler, Jean-Serge Remy, 
+Kevin Buffet, Stéphane P. Vincent, Javier Rojo, Rafael Delgado, Jean-François 
+Nierengarten & Nazario Martín
+
+Tridecafullerenes with 120 peripheral carbohydrate groups have been made in one
+step from hexakis-adducts of [60]fullerene by using azide–alkyne click 
+chemistry. This synthetic approach offers control over the size and 
+multivalency of these ‘sugar superballs', which are shown to be potent 
+inhibitors of cell infection by an artificial Ebola virus, with IC50 values in 
+the sub-nanomolar range.
+
+Links: 
+[1]: http://www.nature.com/nchem/journal/v8/n1/images/nchem.2387-toc.jpg (image)
+[2]: http://dx.doi.org/10.1038/nchem.2387 (link)

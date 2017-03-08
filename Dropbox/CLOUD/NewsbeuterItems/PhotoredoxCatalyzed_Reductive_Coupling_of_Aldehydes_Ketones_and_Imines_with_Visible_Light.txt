@@ -1,0 +1,29 @@
+Title: Photoredox-Catalyzed Reductive Coupling of Aldehydes, Ketones, and Imines with Visible Light
+Author: 
+Date: Wed, 17 Jun 2015 12:20:18 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fanie.201501556
+
+Abstract
+
+Ketyl radical and amino radical anions, valuable reactive intermediates for C[image 1]
+C bond-forming reactions, are accessible through a C[image 2]O/C[image 2]NR 
+umpolung. However, their utilization in catalysis remains largely 
+underdeveloped owing to the high reduction potential of carbonyl compounds and 
+imines. In the context of photoredox catalysis, tertiary amines are commonly 
+employed as sacrificial co-reducing agents. Herein, an additional role of the 
+amine is proposed, in which it is essential for the organocatalytic substrate 
+activation. The combination of photoredox catalysis and carbonyl/imine 
+activation enables the reductive coupling of aldehydes, ketones, and imines 
+under mild reaction conditions.
+[image 4][3]
+
+Overcoming the redox barrier with the amine playing a dual role: The 
+photoredox-catalyzed reductive coupling of aldehydes, ketones, and imines was 
+achieved with low catalyst loading, under mild reaction conditions, and wide 
+functional-group tolerance (see scheme; PS=photosensitizer).
+
+Links: 
+[1]: http://onlinelibrarystatic.wiley.com/undisplayable_characters/00f8ff.gif (image)
+[2]: http://onlinelibrarystatic.wiley.com/undisplayable_characters/00f8fe.gif (image)
+[3]: http://onlinelibrary.wiley.com/store/10.1002/anie.201501556/asset/image_m/mcontent.gif?v=1&s=0989057c73a72aa1b1a4368e2e4dc9fffbfa4ee4 (link)
+[4]: http://onlinelibrary.wiley.com/store/10.1002/anie.201501556/asset/image_n/ncontent.gif?v=1&s=f32a2dcdaf82517fe349fe12a564a0623025a588 (image)

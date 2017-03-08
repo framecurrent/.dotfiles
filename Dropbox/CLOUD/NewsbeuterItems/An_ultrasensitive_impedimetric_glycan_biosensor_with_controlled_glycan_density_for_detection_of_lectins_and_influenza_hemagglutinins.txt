@@ -1,0 +1,15 @@
+Title: An ultrasensitive impedimetric glycan biosensor with controlled glycan density for detection of lectins and influenza hemagglutinins
+Author: J. Tkac
+Date: Fri, 17 Apr 2015 06:36:20 +0200
+Link: http://feeds.rsc.org/~r/rss/CC/~3/onw9B6RKn8M/C5CC00922G
+
+[image 1]
+Chem. Commun., 2015, 51,7474-7477DOI: 10.1039/C5CC00922G, CommunicationA. 
+Hushegyi, T. Bertok, P. Damborsky, J. Katrlik, J. TkacUltrasensitive 
+impedimetric analysis of lectins and viral agglutinins was achieved by a glycan
+biosensor built on a mixed SAM (left) with controlled glycan density (right).
+The content of this RSS Feed (c) The Royal Society of Chemistry[image 2]
+
+Links: 
+[1]: http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C5CC00922G (image)
+[2]: http://feeds.feedburner.com/~r/rss/CC/~4/onw9B6RKn8M (image)

@@ -1,0 +1,30 @@
+Title: Aerogen Bonding Interaction: A New Supramolecular Force?
+Author: 
+Date: Thu, 07 May 2015 07:40:10 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fanie.201502571
+
+Abstract
+
+We report evidence of the favorable noncovalent interaction between a 
+covalently bonded atom of Group 18 (known as noble gases or aerogens) and a 
+negative site, for example, a lone pair of a Lewis base or an anion. It 
+involves a region of positive electrostatic potential (σ-hole), therefore it is
+a totally new and unexplored σ-hole-based interaction, namely aerogen bonding. 
+We demonstrate for the first time the existence of σ-hole regions in aerogen 
+derivatives by means of high-level ab initio calculations. In addition, several
+crystal structures retrieved from the Cambridge Structural Database (CSD) give 
+reliability to the calculations. Energetically, aerogen bonds are comparable to
+hydrogen bonds and other σ-hole-based interactions but less directional. They 
+are expected to be important in xenon chemistry.
+[image 2][1]
+
+A new noncovalent interaction between a covalently bonded atom of Group 18 and 
+a negative site, for example, a lone pair of a Lewis base or an anion, is 
+called an aerogen bonding. It involves a region of positive electrostatic 
+potential (σ-hole). Energetically, aerogen bonds are comparable to hydrogen 
+bonds and other σ-hole-based interactions but less directional. They might be 
+important in xenon chemistry.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/anie.201502571/asset/image_m/mcontent.gif?v=1&s=ea64be90957173785bee73cbe904765bad369a02 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/anie.201502571/asset/image_n/ncontent.gif?v=1&s=89ff921f68aeed0e3b70fe8d200742be9fdb4053 (image)

@@ -1,0 +1,9 @@
+Title: Tmuxomatic: completely different tmux session manager
+Author: 
+Date: Sat, 02 Apr 2016 20:57:04 +0200
+Link: https://github.com/oxidane/tmuxomatic
+
+Comments[1]
+
+Links: 
+[1]: https://news.ycombinator.com/item?id=11412770 (link)

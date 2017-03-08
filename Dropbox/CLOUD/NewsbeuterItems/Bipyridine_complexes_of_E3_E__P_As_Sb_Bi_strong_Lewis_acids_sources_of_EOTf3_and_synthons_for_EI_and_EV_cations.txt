@@ -1,0 +1,23 @@
+Title: Bipyridine complexes of E3+ (E = P, As, Sb, Bi): strong Lewis acids, sources of E(OTf)3 and synthons for EI and EV cations
+Author: Michael J. Ferguson
+Date: Mon, 24 Aug 2015 07:29:01 +0200
+Link: http://feeds.rsc.org/~r/rss/SC/~3/HMmnX05BUHM/C5SC02423D
+
+[image 1]
+Chem. Sci., 2015, Advance ArticleDOI: 10.1039/C5SC02423D, Edge Article[image 2]
+Open Access[image 4][3]nbsp This article is licensed under a Creative Commons 
+Attribution 3.0 Unported Licence.[3]Saurabh S. Chitnis, Alasdair P. M. 
+Robertson, Neil Burford, Brian O. Patrick, Robert McDonald, Michael J. Ferguson
+Triflate salts of trications [(bipy)[2]E]^3+ ([6E][OTf][3]) and [(tbbipy)[2]E]^
+3+ ([6[prime or minute]E][OTf][3]) (bipy = 2,2[prime or minute]-bipyridine, 
+tbbipy = 4,4[prime or minute]-di-^tbutyl-2,2[prime or minute]-bipyridine; E = 
+P, As, Sb, Bi) have been synthesized and comprehensively characterized.To cite 
+this article before page numbers are assigned, use the DOI form of citation 
+above.The content of this RSS Feed (c) The Royal Society of Chemistry[image 5]
+
+Links: 
+[1]: http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C5SC02423D (image)
+[2]: http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/open_access_blue.png (image)
+[3]: http://creativecommons.org/licenses/by/3.0/ (link)
+[4]: http://sod-a.rsc-cdn.org/pubs.rsc-uat.org/content/NewImages/CCBY.png (image)
+[5]: http://feeds.feedburner.com/~r/rss/SC/~4/HMmnX05BUHM (image)

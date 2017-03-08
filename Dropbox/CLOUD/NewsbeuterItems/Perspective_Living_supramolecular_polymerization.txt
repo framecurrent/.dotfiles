@@ -1,0 +1,15 @@
+Title: [Perspective] Living supramolecular polymerization
+Author: Science Magazine (mailto:soleditor@aaas.org)
+Date: Fri, 17 Jul 2015 03:00:00 +0200
+Link: http://www.sciencemag.org/content/349/6245/241.abstract?rss=1
+
+Most polymers that we encounter, like those used in grocery bags and soda 
+bottles, are formed from small molecules (monomers) held together by strong 
+covalent bonds. In supramolecular polymerization, monomers bond through weaker 
+reversible interactions, such as hydrogen bonds (H-bonds). Supramolecular 
+polymerization usually proceeds through step-growth mechanisms (1), where both 
+ends of each monomer are reactive and many smaller oligomers form before long 
+polymers appear. To overcome this problem, a method developed for covalent 
+polymers known as living polymerization has been adopted for supramolecular 
+polymers to achieve better control and uniformity of chain growth and 
+dispersity. Authors: Rahul Dev Mukhopadhyay, Ayyappanpillai Ajayaghosh

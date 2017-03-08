@@ -1,0 +1,37 @@
+Title: What Makes a Strong Organic Electron Donor (or Acceptor)?
+Author: 
+Date: Mon, 27 Apr 2015 16:21:06 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fchem.201406597
+
+Abstract
+
+Organic electron donors are of importance for a number of applications. 
+However, the factors that are essential for a directed design of compounds with
+desired reduction power are not clear. Here, we analyze these factors in 
+detail. The intrinsic reduction power, which neglects the environment, has to 
+be separated from extrinsic (e.g., solvent) effects. This power could be 
+quantified by the gas-phase ionization energy. The experimentally obtained 
+redox potentials in solution and the calculated ionization energies in a 
+solvent (modeled with the conductor-like screening model (COSMO)) include both 
+intrinsic and extrinsic factors. An increase in the conjugated π-system of 
+organic electron donors leads to an increase in the intrinsic reduction power, 
+but also decreases the solvent stabilization. Hence, intrinsic and extrinsic 
+effects compete against each other; generally the extrinsic effects dominate. 
+We suggest a simple relationship between the redox potential in solution and 
+the gas-phase ionization energy and the volume of an organic electron donor. We
+finally arrive at formulas that allow for an estimate of the (gas-phase) 
+ionization energy of an electron donor or the (gas-phase) electron affinity of 
+an electron acceptor from the measured redox potentials in solution. The 
+formulas could be used for neutral organic molecules with no or only small 
+static dipole moment and relatively uniform charge distribution after 
+oxidation/reduction.
+[image 2: Thumbnail image of graphical abstract][2]
+
+Size matters: A relationship between the gas-phase ionization energy and the 
+experienced redox potential in solution is derived. The results highlight the 
+importance of molecular volume in determining the reduction potential in 
+solution (see figure).
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/chem.201406597/asset/image_m/mcontent.gif?v=1&s=74a47190e7208faba0725a3e0ec36749ee5cce9d (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/chem.201406597/asset/image_n/ncontent.gif?v=1&s=d6a60dd2507dcd10f024ec53c4af9f727f4729d4 (image)

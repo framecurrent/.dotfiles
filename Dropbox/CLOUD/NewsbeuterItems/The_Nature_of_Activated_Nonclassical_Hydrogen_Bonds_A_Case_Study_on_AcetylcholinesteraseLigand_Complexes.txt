@@ -1,0 +1,20 @@
+Title: The Nature of Activated Non-classical Hydrogen Bonds: A Case Study on Acetylcholinesterase–Ligand Complexes
+Author: 
+Date: Wed, 13 Jan 2016 09:40:15 +0100
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fchem.201505110
+
+[image 2: Thumbnail image of graphical abstract][2]
+
+The nature of non-classical hydrogen bonds of the CH⋅⋅⋅Y type involving 
+electron-deficient CH donors has been investigated. The hydrogen bonds between 
+the enzyme acetylcholinesterase and different drug-like ligands were 
+computationally analysed in their original protein milieu. The results show 
+that the CH⋅⋅⋅O and CH⋅⋅⋅arene interactions activated by a proximal cation are 
+dispersion dominated and comparable to or greater in strength than classical 
+hydrogen bonds. More information can be found in the Full Paper by A. Linusson 
+et al. (DOI: 10.1002/chem.201503973[3]).
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/chem.201505110/asset/image_m/mcontent.gif?v=1&s=e5ca18bc5e607179f1b3a39a82e26390b5cbc076 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/chem.201505110/asset/image_n/ncontent.gif?v=1&s=559d0b5ea50f7a5d09c596fba6823bc6ccc42625 (image)
+[3]: http://dx.doi.org/10.1002/chem.201503973 (link)

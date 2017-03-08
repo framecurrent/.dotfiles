@@ -1,0 +1,28 @@
+Title: Fully Resolved NMR Correlation Spectroscopy
+Author: 
+Date: Mon, 04 May 2015 16:30:30 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fchem.201501182
+
+Abstract
+
+A new correlation experiment cited as “push-G-SERF” is reported. In the 
+resulting phased 2D spectrum, the chemical shift information is selected along 
+the direct dimension, whereas scalar couplings involving a selected proton 
+nucleus are edited in the indirect domain. The robustness of this pulse 
+sequence is demonstrated on compounds with increasing structural and spectral 
+complexity, using state-of-the-art spectrometers. It allows for full resolution
+of both dimensions of the spectrum, yielding a straightforward assignment and 
+measurement of the coupling network around a given proton in the molecule. This
+experiment is intended for chemists who want to address efficiently the 
+structural analysis of molecules with an overcrowded spectrum.
+[image 2][1]
+
+Serfin′ NMR: We report a new correlation experiment (“push-G-Serf”) with full 
+resolution along both spectral dimensions that allows for an easy and fast 
+structural analysis in complex molecules through a straightforward assignment 
+and measurement of the homonuclear coupling network around a selected proton in
+the molecule.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/chem.201501182/asset/image_m/mcontent.gif?v=1&s=14fff62f7681040931ac387b99ccdaaec9598060 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/chem.201501182/asset/image_n/ncontent.gif?v=1&s=f9b0b3508cfa6fa7347a5a82896a04ae46a96607 (image)

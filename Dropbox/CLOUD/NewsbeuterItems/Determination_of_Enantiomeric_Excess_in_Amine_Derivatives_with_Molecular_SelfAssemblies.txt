@@ -1,0 +1,20 @@
+Title: Determination of Enantiomeric Excess in Amine Derivatives with Molecular Self-Assemblies
+Author: 
+Date: Thu, 21 May 2015 19:10:18 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fanie.201504210
+
+[image 2][1]
+
+Orthogonal dynamic covalent self-assembly has been used for high-throughput 
+determination of the enantiomeric purity of chiral amines. The method, 
+described by P. Anzenbacher and co-workers in their Communication (DOI: 
+10.1002/anie.201501736[3]) is based on the self-assembly of 
+2-formylphenylboronic acid with a chiral diol auxiliary and a chiral amine of 
+unknown chirality to produce two diastereomeric iminoboronates that differ in 
+their fluorescence, as measured using a microplate reader. The approach allows 
+accurate determination of the ee value of chiral amines with errors below 2%.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/anie.201504210/asset/image_m/mcontent.jpg?v=1&s=24d349cb01b270839743d6b758a8a1af8b7fa57e (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/anie.201504210/asset/image_n/ncontent.jpg?v=1&s=3d5b64cd4d6c46e3b3bf5d3e65f951868f61713a (image)
+[3]: http://dx.doi.org/10.1002/anie.201501736 (link)

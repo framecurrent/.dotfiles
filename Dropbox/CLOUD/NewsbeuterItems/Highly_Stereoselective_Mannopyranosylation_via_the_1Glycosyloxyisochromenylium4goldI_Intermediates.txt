@@ -1,0 +1,38 @@
+Title: Highly Stereoselective β-Mannopyranosylation via the 1-α-Glycosyloxy-isochromenylium-4-gold(I) Intermediates
+Author: 
+Date: Mon, 20 Apr 2015 16:50:32 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fchem.201500648
+
+Abstract
+
+While the gold(I)-catalyzed glycosylation reaction with 4,6-O-benzylidene 
+tethered mannosyl ortho-alkynylbenzoates as donors falls squarely into the 
+category of the Crich-type β-selective mannosylation when Ph[3]PAuOTf is used 
+as the catalyst, in that the mannosyl α-triflates are invoked, replacement of 
+the ^−OTf in the gold(I) complex with less nucleophilic counter anions (i.e., ^
+−NTf[2], ^−SbF[6], ^−BF[4], and ^−BAr[4]^F) leads to complete loss of 
+β-selectivity with the mannosyl ortho-alkynylbenzoate β-donors. Nevertheless, 
+with the α-donors, the mannosylation reactions under the catalysis of Ph[3]
+PAuBAr[4]^F (BAr[4]^F=tetrakis[3,5-bis(trifluoromethyl)phenyl]borate) are 
+especially highly β-selective and accommodate a broad scope of substrates; 
+these include glycosylation with mannosyl donors installed with a bulky TBS 
+group at O3, donors bearing 4,6-di-O-benzoyl groups, and acceptors known as 
+sterically unmatched or hindered. For the ortho-alkynylbenzoate β-donors, an 
+anomerization and glycosylation sequence can also ensure the highly β-selective
+mannosylation. The 1-α-mannosyloxy-isochromenylium-4-gold(I) complex (Cα), 
+readily generated upon activation of the α-mannosyl ortho-alkynylbenzoate (1 α)
+with Ph[3]PAuBAr[4]^F at −35 °C, was well characterized by NMR spectroscopy; 
+the occurrence of this species accounts for the high β-selectivity in the 
+present mannosylation.
+[image 2: Thumbnail image of graphical abstract][2]
+
+Some like it gold: With the non-coordinating ^−BAr[4]^F 
+(tetrakis[3,5-bis(trifluoromethyl)phenyl]borate) as a counter anion, 
+gold(I)-activation of the α-mannopyranosyl ortho-alkynylbenzoates leads to the 
+corresponding 1-α-mannosyloxy-isochromenylium-4-gold(I) complex, which upon 
+treatment with alcohols might afford the important but difficult-to-synthesize 
+β-mannopyranosides (see scheme).
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/chem.201500648/asset/image_m/mcontent.gif?v=1&s=2e96641a3b296111339c73d5c5b9485600c2dce7 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/chem.201500648/asset/image_n/ncontent.gif?v=1&s=05dfb4091c18edd8c187e7d8686a59d4602a9d7b (image)

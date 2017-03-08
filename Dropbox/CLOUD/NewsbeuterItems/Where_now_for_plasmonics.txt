@@ -1,0 +1,15 @@
+hTitle: Where now for plasmonics?
+Author: 
+Date: Thu, 07 Jan 2016 00:00:00 +0100
+Link: http://feeds.nature.com/~r/nnano/rss/current/~3/AGefsOlfX6g/nnano.2015.333
+
+Nature Nanotechnology 11, 1 (2016). doi:10.1038/nnano.2015.333[1]
+
+Developing useful methods to control light–matter interactions at the nanoscale
+requires an appreciation of the needs of industry and innovative approaches 
+that go beyond plasmonics.
+[image 2]
+
+Links: 
+[1]: http://dx.doi.org/10.1038/nnano.2015.333 (link)
+[2]: http://feeds.feedburner.com/~r/nnano/rss/current/~4/AGefsOlfX6g (image)

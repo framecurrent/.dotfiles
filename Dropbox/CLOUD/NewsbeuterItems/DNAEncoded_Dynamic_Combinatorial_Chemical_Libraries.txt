@@ -1,0 +1,32 @@
+Title: DNA-Encoded Dynamic Combinatorial Chemical Libraries
+Author: 
+Date: Wed, 27 May 2015 02:50:13 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fanie.201501775
+
+Abstract
+
+Dynamic combinatorial chemistry (DCC) explores the thermodynamic equilibrium of
+reversible reactions. Its application in the discovery of protein binders is 
+largely limited by difficulties in the analysis of complex reaction mixtures. 
+DNA-encoded chemical library (DECL) technology allows the selection of binders 
+from a mixture of up to billions of different compounds; however, experimental 
+results often show low a signal-to-noise ratio and poor correlation between 
+enrichment factor and binding affinity. Herein we describe the design and 
+application of DNA-encoded dynamic combinatorial chemical libraries (EDCCLs). 
+Our experiments have shown that the EDCCL approach can be used not only to 
+convert monovalent binders into high-affinity bivalent binders, but also to 
+cause remarkably enhanced enrichment of potent bivalent binders by driving 
+their in situ synthesis. We also demonstrate the application of EDCCLs in 
+DNA-templated chemical reactions.
+[image 2][1]
+
+Selection goes dynamic: Dynamic combinatorial chemistry explores the 
+thermodynamic equilibrium of reversible reactions. DNA-encoded chemical 
+libraries enable the selection of binders from compound mixtures. Now the 
+advantages of DNA-encoded dynamic combinatorial chemical libraries for the 
+selection of protein binders from a myriad of compounds (see picture) and for 
+DNA-templated reactions are demonstrated.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/anie.201501775/asset/image_m/mcontent.gif?v=1&s=f611091cc740662af735ad30e70d661a41f11cf1 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/anie.201501775/asset/image_n/ncontent.gif?v=1&s=286b7ce93074bbd763e042197e1b51c2acfc6134 (image)

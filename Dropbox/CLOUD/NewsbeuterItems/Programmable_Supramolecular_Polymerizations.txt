@@ -1,0 +1,17 @@
+Title: Programmable Supramolecular Polymerizations
+Author: 
+Date: Wed, 10 Jun 2015 18:10:34 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fanie.201503104
+
+[image 2][1]
+
+Living large: Rational design of self-assembly pathways has been demonstrated 
+in supramolecular polymers. By controlling the concentration of an 
+aggregation-competent monomer through intramolecular interactions, living 
+supramolecular polymerization conditions were achieved. This universal approach
+can be used to obtain aggregates of well-defined length and narrow dispersity, 
+and allows access to new supramolecular polymer architectures.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/anie.201503104/asset/image_m/mcontent.gif?v=1&s=354bc58b47ee1dc86b4489dd57ab91f4df4a680c (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/anie.201503104/asset/image_n/ncontent.gif?v=1&s=43fdaaf4556dc7ba25ea1d2c1d3270817d3b1990 (image)

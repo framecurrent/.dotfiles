@@ -1,0 +1,34 @@
+Title: Combinatorial hydrogel library enables identification of materials that mitigate the foreign body response in primates
+Author: 
+Date: Mon, 25 Jan 2016 00:00:00 +0100
+Link: http://feeds.nature.com/~r/nbt/rss/current/~3/pKiAbagQK9I/nbt.3462
+
+Nature Biotechnology 34, 345 (2016). doi:10.1038/nbt.3462[1]
+
+Authors: Arturo J Vegas, Omid Veiseh, Joshua C Doloff, Minglin Ma, Hok Hei Tam,
+Kaitlin Bratlie, Jie Li, Andrew R Bader, Erin Langan, Karsten Olejnik, Patrick 
+Fenton, Jeon Woong Kang, Jennifer Hollister-Locke, Matthew A Bochenek, Alan 
+Chiu, Sean Siebert, Katherine Tang, Siddharth Jhunjhunwala, Stephanie 
+Aresta-Dasilva, Nimit Dholakia, Raj Thakrar, Thema Vietti, Michael Chen, Josh 
+Cohen, Karolina Siniakowicz, Meirigeng Qi, James McGarrigle, Stephen Lyle, 
+David M Harlan, Dale L Greiner, Jose Oberholzer, Gordon C Weir, Robert Langer &
+Daniel G Anderson
+
+The foreign body response is an immune-mediated reaction that can lead to the 
+failure of implanted medical devices and discomfort for the recipient. There is
+a critical need for biomaterials that overcome this key challenge in the 
+development of medical devices. Here we use a combinatorial approach for 
+covalent chemical modification to generate a large library of variants of one 
+of the most widely used hydrogel biomaterials, alginate. We evaluated the 
+materials in vivo and identified three triazole-containing analogs that 
+substantially reduce foreign body reactions in both rodents and, for at least 6
+months, in non-human primates. The distribution of the triazole modification 
+creates a unique hydrogel surface that inhibits recognition by macrophages and 
+fibrous deposition. In addition to the utility of the compounds reported here, 
+our approach may enable the discovery of other materials that mitigate the 
+foreign body response.
+[image 2]
+
+Links: 
+[1]: http://dx.doi.org/10.1038/nbt.3462 (link)
+[2]: http://feeds.feedburner.com/~r/nbt/rss/current/~4/pKiAbagQK9I (image)

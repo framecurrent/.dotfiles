@@ -1,0 +1,18 @@
+Title: [Review] The atom, the molecule, and the covalent organic framework
+Author: Science Magazine (mailto:soleditor@aaas.org)
+Date: Fri, 03 Mar 2017 00:00:00 +0100
+Link: http://science.sciencemag.org/content/355/6328/eaal1585?rss=1
+
+Just over a century ago, Lewis published his seminal work on what became known 
+as the covalent bond, which has since occupied a central role in the theory of 
+making organic molecules. With the advent of covalent organic frameworks 
+(COFs), the chemistry of the covalent bond was extended to two- and 
+three-dimensional frameworks. Here, organic molecules are linked by covalent 
+bonds to yield crystalline, porous COFs from light elements (boron, carbon, 
+nitrogen, oxygen, and silicon) that are characterized by high architectural and
+chemical robustness. This discovery paved the way for carrying out chemistry on
+frameworks without losing their porosity or crystallinity, and in turn 
+achieving designed properties in materials. The recent union of the covalent 
+and the mechanical bond in the COF provides the opportunity for making woven 
+structures that incorporate flexibility and dynamics into frameworks. Authors: 
+Christian S. Diercks, Omar M. Yaghi

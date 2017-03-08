@@ -1,0 +1,31 @@
+Title: Dynamic Covalent Organocatalysts Discovered from Catalytic Systems through Rapid Deconvolution Screening
+Author: 
+Date: Tue, 14 Jul 2015 14:51:27 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fchem.201502088
+
+Abstract
+
+The first example of a bifunctional organocatalyst assembled through dynamic 
+covalent chemistry (DCC) is described. The catalyst is based on reversible 
+imine chemistry and can catalyze the Morita–Baylis–Hillman (MBH) reaction of 
+enones with aldehydes or N-tosyl imines. Furthermore, these dynamic catalysts 
+were shown to be optimizable through a systemic screening approach, in which 
+large mixtures of catalyst structures were generated, and the optimal catalyst 
+could be directly identified by using dynamic deconvolution. This strategy 
+allowed one-pot synthesis and in situ evaluation of several potential catalysts
+without the need to separate, characterize, and purify each individual 
+structure. The systems were furthermore shown to catalyze and re-equilibrate 
+their own formation through a previously unknown thiourea-catalyzed 
+transimination process.
+[image 2][1]
+
+Catalyst screening: By using dynamic covalent chemistry, systems of 
+bifunctional catalysts incorporating dynamic imine bonds within the scaffold 
+have been developed and have been shown to equilibrate under catalysis of one 
+of the system members. Furthermore, the optimal catalyst for a 
+Morita–Baylis–Hillman reaction could be identified in situ through strategic 
+dynamic deconvolution (see scheme).
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/chem.201502088/asset/image_m/mcontent.jpg?v=1&s=3b8803fa348fd3066ff3a07152957d6735b8fd5c (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/chem.201502088/asset/image_n/ncontent.jpg?v=1&s=b72e9fd5185eb079eba67791227cd88e922e2d0e (image)

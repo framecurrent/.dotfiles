@@ -1,0 +1,30 @@
+Title: Catenanes: Fifty Years of Molecular Links
+Author: 
+Date: Thu, 07 May 2015 07:10:39 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fanie.201411619
+
+Abstract
+
+Half a century after Schill and Lüttringhaus carried out the first directed 
+synthesis of a [2]catenane, a plethora of strategies now exist for the 
+construction of molecular Hopf links (singly interlocked rings), the simplest 
+type of catenane. The precision and effectiveness with which suitable templates
+and/or noncovalent interactions can arrange building blocks has also enabled 
+the synthesis of intricate and often beautiful higher order interlocked 
+systems, including Solomon links, Borromean rings, and a Star of David 
+catenane. This Review outlines the diverse strategies that exist for 
+synthesizing catenanes in the 21st century and examines their emerging 
+applications and the challenges that still exist for the synthesis of more 
+complex topologies.
+[image 2][1]
+
+Half a century after Schill and Lüttringhaus carried out the first directed 
+synthesis of a [2]catenane, a plethora of strategies now exist for the 
+construction of interlocked molecular rings. Effective template synthesis 
+enables the synthesis of higher order interlocked systems. This Review outlines
+the diverse strategies that exist for forming catenanes, their applications, 
+and the important challenges that remain in the field of chemical topology.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/anie.201411619/asset/image_m/mcontent.gif?v=1&s=1ad39b26499890ad06df4630fccdaf3369f5d10e (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/anie.201411619/asset/image_n/ncontent.gif?v=1&s=f6b001989a44e792869411ae2b58c12f0641099f (image)

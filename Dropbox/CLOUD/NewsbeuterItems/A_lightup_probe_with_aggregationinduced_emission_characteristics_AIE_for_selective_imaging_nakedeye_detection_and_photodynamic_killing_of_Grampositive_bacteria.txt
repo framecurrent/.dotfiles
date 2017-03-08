@@ -1,0 +1,16 @@
+Title: A light-up probe with aggregation-induced emission characteristics (AIE) for selective imaging, naked-eye detection and photodynamic killing of Gram-positive bacteria
+Author: Bin Liu
+Date: Wed, 22 Jul 2015 07:03:38 +0200
+Link: http://feeds.rsc.org/~r/rss/CC/~3/NoQaaEcSfpM/C5CC03807C
+
+[image 1]
+Chem. Commun., 2015, 51,12490-12493DOI: 10.1039/C5CC03807C, Communication
+Guangxue Feng, Youyong Yuan, Hu Fang, Ruoyu Zhang, Bengang Xing, Guanxin Zhang,
+Deqing Zhang, Bin LiuWe report a multifunctional light-up probe based on 
+AIEgens for selective recognition, naked-eye identification, and photodynamic 
+killing of Gram-positive bacteria including vancomycin-resistant strains.The 
+content of this RSS Feed (c) The Royal Society of Chemistry[image 2]
+
+Links: 
+[1]: http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C5CC03807C (image)
+[2]: http://feeds.feedburner.com/~r/rss/CC/~4/NoQaaEcSfpM (image)

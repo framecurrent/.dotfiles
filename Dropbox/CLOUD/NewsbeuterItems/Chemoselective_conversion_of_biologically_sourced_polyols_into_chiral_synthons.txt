@@ -1,0 +1,21 @@
+Title: Chemoselective conversion of biologically sourced polyols into chiral synthons
+Author: 
+Date: Tue, 23 Jun 2015 03:00:00 +0200
+Link: http://dx.doi.org/10.1038/nchem.2277
+
+[image 1]
+
+Nature Chemistry 7, 576 (2015). doi:10.1038/nchem.2277[2]
+
+Authors: Laura L. Adduci, Trandon A. Bender, Jennifer A. Dabrowski & Michel R. 
+Gagné
+
+Biorenewable carbohydrate feedstocks can be efficiently converted into a 
+diverse set of oxygen-functionalized chiral synthons using a combination of a 
+tertiary silane and the catalyst B(C6F5)3. The deoxygenation mechanism involves
+cyclic intermediates, which provide a means of controlling chemo- and 
+diastereoselectivity.
+
+Links: 
+[1]: http://www.nature.com/nchem/journal/v7/n7/images/nchem.2277-toc.jpg (image)
+[2]: http://dx.doi.org/10.1038/nchem.2277 (link)

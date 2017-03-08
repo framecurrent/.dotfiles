@@ -1,0 +1,20 @@
+Title: Constructing minimal models for complex system dynamics
+Author: 
+Date: Wed, 20 May 2015 03:00:00 +0200
+Link: http://feeds.nature.com/~r/ncomms/rss/current/~3/pakEdO9khAM/ncomms8186
+
+Article
+
+In statistical physics, the observable macroscopic behaviour of a system is 
+obtained from a microscopic model of its components. Here, the authors extend 
+this approach to systems with no known microscopic dynamics, by looking at the 
+system’s response to external perturbations.
+
+Nature Communications doi: 10.1038/ncomms8186[1]
+
+Authors: Baruch Barzel, Yang-Yu Liu, Albert-László Barabási
+[image 2]
+
+Links: 
+[1]: http://dx.doi.org/10.1038/ncomms8186 (link)
+[2]: http://feeds.feedburner.com/~r/ncomms/rss/current/~4/pakEdO9khAM (image)

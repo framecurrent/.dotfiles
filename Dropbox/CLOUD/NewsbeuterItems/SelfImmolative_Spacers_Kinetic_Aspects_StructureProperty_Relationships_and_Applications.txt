@@ -1,0 +1,32 @@
+Title: Self-Immolative Spacers: Kinetic Aspects, Structure–Property Relationships, and Applications
+Author: 
+Date: Fri, 05 Jun 2015 08:30:07 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fanie.201500088
+
+Abstract
+
+Self-immolative spacers are covalent assemblies tailored to correlate the 
+cleavage of two chemical bonds after activation of a protective part in a 
+precursor: Upon stimulation, the protective moiety is removed, which generates 
+a cascade of disassembling reactions leading to the temporally sequential 
+release of smaller molecules. Originally introduced to overcome limitations for
+drug delivery, self-immolative spacers have gained wide interest in medicinal 
+chemistry, analytical chemistry, and material science. For most applications, 
+the kinetics of the disassembly of the activated self-immolative spacer governs
+functional properties. This Review addresses kinetic aspects of 
+self-immolation. It provides information for selecting a particular 
+self-immolative motif for a specific demand. Moreover, it should help 
+researchers design kinetic experiments and fully exploit the rich perspectives 
+of self-immolative spacers.
+[image 2][1]
+
+Time to cleave: Self-immolative spacers are covalent assemblies tailored to 
+ensure the temporally tailored cleavage of two chemical bonds on activation. 
+Upon stimulation, a protective moiety is removed from one side of the spacer, 
+which then triggers the release of desired molecule. This Review deals with 
+kinetics of disassembly in self-immolative spacers and provides information for
+selecting a particular self-immolative motif for a specific demand.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/anie.201500088/asset/image_m/mcontent.gif?v=1&s=f884468441fe68c88e3f43e5a436d12da72c9822 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/anie.201500088/asset/image_n/ncontent.gif?v=1&s=7a41cddaa42fdcf4b2e2afb4b4faff28ae8c91b6 (image)

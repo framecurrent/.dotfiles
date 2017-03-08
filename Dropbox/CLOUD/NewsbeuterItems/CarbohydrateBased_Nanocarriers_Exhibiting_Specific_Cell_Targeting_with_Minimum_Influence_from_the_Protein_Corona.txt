@@ -1,0 +1,30 @@
+Title: Carbohydrate-Based Nanocarriers Exhibiting Specific Cell Targeting with Minimum Influence from the Protein Corona
+Author: 
+Date: Mon, 04 May 2015 16:50:08 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fanie.201502398
+
+Abstract
+
+Whenever nanoparticles encounter biological fluids like blood, proteins adsorb 
+on their surface and form a so-called protein corona. Although its importance 
+is widely accepted, information on the influence of surface functionalization 
+of nanocarriers on the protein corona is still sparse, especially concerning 
+how the functionalization of PEGylated nanocarriers with targeting agents will 
+affect protein corona formation and how the protein corona may in turn 
+influence the targeting effect. Herein, hydroxyethyl starch nanocarriers 
+(HES-NCs) were prepared, PEGylated, and modified on the outer PEG layer with 
+mannose to target dendritic cells (DCs). Their interaction with human plasma 
+was then studied. Low overall protein adsorption with a distinct protein 
+pattern and high specific affinity for DC binding were observed, thus 
+indicating an efficient combination of “stealth” and targeting behavior.
+[image 2][1]
+
+Stealth nanocariers: The blood plasma interactions and targeting properties of 
+PEGylated and mannose-functionalized hydroxyethyl starch (HES) nanocarriers 
+were investigated. They exhibit colloidal stability in human plasma, low 
+protein adsorption, a distinct protein pattern, and highly specific cellular 
+uptake into dendritic cells both before and after contact with human plasma.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/anie.201502398/asset/image_m/mcontent.gif?v=1&s=703755786b703d9c33be1ab336f11b48ec7e19b8 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/anie.201502398/asset/image_n/ncontent.gif?v=1&s=8214030cf167851002f367ee5ff801acb46fd108 (image)

@@ -1,0 +1,28 @@
+Title: Multi-Stimuli-Responsive Polymeric Materials
+Author: 
+Date: Mon, 27 Jul 2015 16:40:26 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fchem.201501101
+
+Abstract
+
+Stimuli-responsive materials are of immense importance because of their ability
+to undergo alteration of their properties in response to their environment. The
+properties of such materials can be tuned by subtle adjustments in temperature,
+pH, light, and so forth. Among such smart materials, multi-stimuli-responsive 
+polymeric materials are of pronounced significance as they offer a wide range 
+of applications and their properties can be tuned through several mechanisms. 
+Here, we aim to highlight some recent studies showcasing the 
+multi-stimuli-responsive character of these polymers, which are still 
+relatively little known compared to their single-stimuli-responsive 
+counterpart.
+[image 2][1]
+
+Responding to change: Stimuli-responsive materials are of immense importance 
+because of their ability to undergo alteration of their properties in response 
+to their environment. The properties of such materials can be tuned by subtle 
+adjustments in temperature, pH, light, and so forth. This review article 
+provides an overview of multi-stimuli-responsive polymeric materials.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/chem.201501101/asset/image_m/mcontent.jpg?v=1&s=3594521f745c38e138858794f3075eb04c02c8cf (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/chem.201501101/asset/image_n/ncontent.jpg?v=1&s=ab2972ed228368ef2b000b14647d373831b33a84 (image)

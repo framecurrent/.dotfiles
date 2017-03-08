@@ -1,0 +1,16 @@
+Title: DYNAMERS: dynamic polymers as self-healing materials
+Author: Jean-Marie Lehn
+Date: Tue, 05 May 2015 21:41:55 +0200
+Link: http://feeds.rsc.org/~r/rss/CS/~3/hHkU9qvgo3U/C5CS00194C
+
+[image 1]
+Chem. Soc. Rev., 2015, Advance ArticleDOI: 10.1039/C5CS00194C, Review Article
+Nabarun Roy, Bernd Bruchmann, Jean-Marie LehnAn overview of recent advances 
+made in the field of constitutional dynamic materials, in particular dynamic 
+polymers, dynamers, displaying self-healing features.To cite this article 
+before page numbers are assigned, use the DOI form of citation above.The 
+content of this RSS Feed (c) The Royal Society of Chemistry[image 2]
+
+Links: 
+[1]: http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C5CS00194C (image)
+[2]: http://feeds.feedburner.com/~r/rss/CS/~4/hHkU9qvgo3U (image)

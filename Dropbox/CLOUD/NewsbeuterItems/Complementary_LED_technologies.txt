@@ -1,0 +1,18 @@
+Title: Complementary LED technologies
+Author: 
+Date: Wed, 22 Apr 2015 02:00:00 +0200
+Link: http://feeds.nature.com/~r/nmat/rss/current/~3/GtsaVkg_1lw/nmat4277
+
+Nature Materials 14, 459 (2015). doi:10.1038/nmat4277[1]
+
+Author: Sebastian Reineke
+
+Organic semiconducting molecules and colloidal quantum dots both make for 
+excellent luminescent materials. Compared with the more established solid-state
+light-emitting technologies, organic LEDs and quantum-dot LEDs are in their 
+infancy, yet they offer unique properties.
+[image 2]
+
+Links: 
+[1]: http://dx.doi.org/10.1038/nmat4277 (link)
+[2]: http://feeds.feedburner.com/~r/nmat/rss/current/~4/GtsaVkg_1lw (image)

@@ -1,0 +1,30 @@
+Title: Complex Functional Systems with Three Different Types of Dynamic Covalent Bonds
+Author: 
+Date: Tue, 16 Jun 2015 09:10:25 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fanie.201503033
+
+Abstract
+
+Multicomponent surface architectures are introduced that operate with three 
+different dynamic covalent bonds. Disulfide exchange under basic conditions 
+accounts for the growth of π stacks on solid surfaces. Hydrazone exchange under
+acidic conditions is used to add a second coaxial string or stack, and boronic 
+ester exchange under neutral conditions is used to co-align a third one. The 
+newly introduced boronic ester exchange chemistry is compatible with stack and 
+string exchange without interference from the orthogonal hydrazone and 
+disulfide exchange. The functional relevance of surface architectures with 
+three different dynamic covalent bonds is exemplified with the detection of 
+polyphenol natural products, such as epigallocatechin gallate, in competition 
+experiments with alizarin red. These results describe synthetic strategies to 
+create functional systems of unprecedented sophistication with regard to 
+dynamic covalent chemistry.
+[image 2][1]
+
+Designer architectures: Disulfide exchange under basic conditions, hydrazone 
+exchange under acidic conditions, and boronic ester exchange at neutral pH 
+values are combined to build multicomponent functional surface architectures 
+using dynamic covalent chemistry. TSA/TSR=templated stack addition/release.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/anie.201503033/asset/image_m/mcontent.gif?v=1&s=c7d6016aaa63169c878861dff7d19358a50bd843 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/anie.201503033/asset/image_n/ncontent.gif?v=1&s=bfce1df805d016a242ae216c3f393713ab72cb69 (image)

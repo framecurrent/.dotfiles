@@ -1,0 +1,15 @@
+Title: [Perspective] Nanoplasmonic sensing and detection
+Author: Science Magazine (mailto:soleditor@aaas.org)
+Date: Fri, 17 Apr 2015 02:00:00 +0200
+Link: http://www.sciencemag.org/content/348/6232/287.abstract?rss=1
+
+Measuring minute amounts of chemical and biological objects in the environment 
+and in living organisms is one of the most common and important tasks in 
+chemistry, biology, medicine, environmental monitoring, transportation, 
+homeland security, and defense. Although the existing methods of sensing and 
+detection are numerous and powerful, they are not without shortcomings: 
+insufficient sensitivity; long detection times; necessity for enzymatic, 
+fluorescent, or radioactive labeling; high costs, and so on. Optical 
+spectroscopic methods have the advantage of being fast, noncontact, and 
+relatively inexpensive, but they are not necessarily sensitive enough. Author: 
+Mark I. Stockman

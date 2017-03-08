@@ -1,0 +1,28 @@
+Title: Mini-ISES identifies promising carbafructopyranose-based salens for asymmetric catalysis: Tuning ligand shape via the anomeric effect
+Author: 
+Date: Fri, 10 Jul 2015 20:50:52 +0200
+Link: http://advances.sciencemag.org/cgi/content/short/1/6/e1500066?rss=1
+
+This study introduces new methods of screening for and tuning chiral space and 
+in so doing identifies a promising set of chiral ligands for asymmetric 
+synthesis. The carbafructopyranosyl-1,2-diamine(s) and salens constructed 
+therefrom are particularly compelling. It is shown that by removing the native 
+anomeric effect in this ligand family, one can tune chiral ligand shape and 
+improve chiral bias. This concept is demonstrated by a combination of (i) x-ray
+crystallographic structure determination, (ii) assessment of catalytic 
+performance, and (iii) consideration of the anomeric effect and its underlying 
+dipolar basis. The title ligands were identified by a new mini version of the 
+in situ enzymatic screening (ISES) procedure through which catalyst-ligand 
+combinations are screened in parallel, and information on relative rate and 
+enantioselectivity is obtained in real time, without the need to quench 
+reactions or draw aliquots. Mini-ISES brings the technique into the nanomole 
+regime (200 to 350 nmol catalyst/20 μl organic volume) commensurate with 
+emerging trends in reaction development/process chemistry. The best-performing 
+β-d-carbafructopyranosyl-1,2-diamine–derived salen ligand discovered here 
+outperforms the best known organometallic and enzymatic catalysts for the 
+hydrolytic kinetic resolution of 3-phenylpropylene oxide, one of several 
+substrates examined for which the ligand is "matched." This ligand scaffold 
+defines a new swath of chiral space, and anomeric effect tunability defines a 
+new concept in shaping that chiral space. Both this ligand set and the anomeric
+shape-tuning concept are expected to find broad application, given the value of
+chiral 1,2-diamines and salens constructed from these in asymmetric catalysis.

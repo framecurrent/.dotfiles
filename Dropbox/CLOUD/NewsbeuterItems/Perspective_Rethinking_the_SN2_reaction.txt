@@ -1,0 +1,18 @@
+Title: [Perspective] Rethinking the SN2 reaction
+Author: Science Magazine (mailto:soleditor@aaas.org)
+Date: Fri, 01 Apr 2016 02:00:00 +0200
+Link: http://science.sciencemag.org/content/352/6281/32?rss=1
+
+The SN2 nucleophilic substitution reaction, X− + RY → XR + Y−, is a paradigm 
+reaction in organic chemistry (1). The modern understanding of the SN2 reaction
+mechanism is based on work of Hughes and Ingold (2), who proposed that the 
+nucleophile (X−) approaches the carbon atom that bears the leaving group (Y−). 
+As a result, the bond between the carbon atom and the leaving group becomes 
+weakened. As this bond breaks and a new bond forms between the nucleophile and 
+the carbon atom, the configuration of the carbon atom is inverted. Analyses of 
+gas-phase reaction rates led to the suggestion of a potential energy surface 
+(PES) with two wells connected by a central barrier transition state (3). 
+Electronic structure calculations have confirmed this picture for some SN2 
+reactions (4), but recent studies have shown that the actual reaction dynamics 
+may be considerably more complex (see the figure) (5–8). Authors: Jing Xie, 
+William L. Hase

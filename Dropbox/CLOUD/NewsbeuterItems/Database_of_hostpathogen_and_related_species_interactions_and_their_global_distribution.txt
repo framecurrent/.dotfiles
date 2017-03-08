@@ -1,0 +1,14 @@
+Title: Database of host-pathogen and related species interactions, and their global distribution
+Author: 
+Date: Tue, 15 Sep 2015 03:00:00 +0200
+Link: http://feeds.nature.com/~r/sdata/rss/current/~3/gMntV-GQyF0/sdata201549
+
+Database of host-pathogen and related species interactions, and their global 
+distribution
+
+Scientific Data, Published online: 15 September 2015; doi:10.1038/sdata.2015.49[1]
+[image 2]
+
+Links: 
+[1]: http://www.nature.com/articles/sdata201549 (link)
+[2]: http://feeds.feedburner.com/~r/sdata/rss/current/~4/gMntV-GQyF0 (image)

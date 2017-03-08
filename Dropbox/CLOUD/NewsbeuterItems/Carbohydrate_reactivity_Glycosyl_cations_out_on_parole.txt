@@ -1,0 +1,15 @@
+Title: Carbohydrate reactivity: Glycosyl cations out on parole
+Author: 
+Date: Thu, 21 Jan 2016 00:00:00 +0100
+Link: http://dx.doi.org/10.1038/nchem.2436
+
+Nature Chemistry 8, 99 (2016). doi:10.1038/nchem.2436[1]
+
+Authors: Luis Bohé & David Crich
+
+The reactivity of glycosyl donors is often explained by invoking putative 
+glycosyl cation intermediates but, until now, they have not been observed in 
+the condensed phase.
+
+Links: 
+[1]: http://dx.doi.org/10.1038/nchem.2436 (link)

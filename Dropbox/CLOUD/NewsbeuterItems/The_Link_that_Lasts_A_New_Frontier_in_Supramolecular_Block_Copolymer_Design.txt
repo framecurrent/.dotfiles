@@ -1,0 +1,18 @@
+Title: The Link that Lasts: A New Frontier in Supramolecular Block Copolymer Design
+Author: 
+Date: Thu, 03 Sep 2015 09:40:16 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fanie.201506602
+
+[image 2][1]
+
+Lasting link: A supramolecular linkage between two parts of an amphiphilic 
+block copolymer was developed that is sufficiently strong to allow 
+phase-separation-driven nanopatterning as well as chromatographic 
+characterization. The link can also be severed in response to a solvent trigger
+signal. This powerful approach will open new avenues for the production of 
+self-healing materials, triggered-release systems, and reversible surface 
+designs.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/anie.201506602/asset/image_m/mcontent.jpg?v=1&s=ba7c91baa401e4a4e138b7524605447911d453da (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/anie.201506602/asset/image_n/ncontent.jpg?v=1&s=b99aafa948242c773ced5f2aefbd3916fc70ed39 (image)

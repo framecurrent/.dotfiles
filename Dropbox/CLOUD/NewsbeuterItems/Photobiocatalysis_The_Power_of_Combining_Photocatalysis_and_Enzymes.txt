@@ -1,0 +1,34 @@
+Title: Photobiocatalysis: The Power of Combining Photocatalysis and Enzymes
+Author: 
+Date: Tue, 26 May 2015 23:51:30 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fchem.201406437
+
+Abstract
+
+Photobiocatalysts are constituted by a semiconductor with or without a light 
+harvester that activates an enzyme. A logical source of inspiration for the 
+development of photobiocatalysts has been natural photosynthetic centers. In 
+photobiocatalysis, the coupling of the semiconductor and the enzyme frequently 
+requires a natural cofactor and a relay transferring charge carriers from the 
+semiconductor. The most widely studied photobiocatalysts so far make use of 
+conduction band electrons of excited semiconductors to promote enzymatic 
+reductions mediated by NAD^+/NADH and an electron relay. The present review 
+presents the state of the art in the field and has been organized based on the 
+semiconductor and the reaction type including oxidations, hydrogen generation, 
+and CO[2] reduction. The possibility of direct enzyme activation by the 
+semiconductor and the influence of the nature of mediator are also discussed as
+well as the use of mimics of the enzyme active center in combination with the 
+semiconductor. The final section summarizes the state of the art of 
+photobiocatalysis and comments on our view on future developments of the field.
+[image 2][1]
+
+Light the way to biocatalysis! The present review presents the state of the art
+in the field of photobiocatalysis and has been organized based on the 
+semiconductor and the reaction type including oxidations, hydrogen generation, 
+and CO[2] reduction. The possibility of direct enzyme activation by the 
+semiconductor and the influence of the nature of the mediator are also 
+discussed (see scheme).
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/chem.201406437/asset/image_m/mcontent.gif?v=1&s=6b88319785dbad83043142d1d333dfa866679cc3 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/chem.201406437/asset/image_n/ncontent.gif?v=1&s=6375e722e74f72e666e694355f6d9751048cf387 (image)

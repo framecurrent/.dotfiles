@@ -1,0 +1,22 @@
+Title: Number of Nanoparticles per Cell through a Spectrophotometric Method - A key parameter to Assess Nanoparticle-based Cellular Assays
+Author: 
+Date: Fri, 15 May 2015 03:00:00 +0200
+Link: http://feeds.nature.com/~r/srep/rss/current/~3/PDoCMUpubgE/srep10091
+
+Engineered nanoparticles (eNPs) for biological and biomedical applications are 
+produced from functionalised nanoparticles (NPs) after undergoing multiple 
+handling steps, giving rise to an inevitable loss of NPs. Herein we present a 
+practical method to quantify nanoparticles (NPs) number per volume in an 
+aqueous suspension using standard spectrophotometers and minute amounts of the 
+suspensions (up to 1 μL). This method allows, for the first time, to analyse 
+cellular uptake by reporting NPs number added per cell, as opposed to current 
+methods which are related to solid content (w/V) of NPs. In analogy to the 
+parameter used in viral infective assays (multiplicity of infection), we 
+propose to name this novel parameter as multiplicity of nanofection. 
+
+Scientific Reports 5 doi: 10.1038/srep10091[1]
+[image 2]
+
+Links: 
+[1]: http://dx.doi.org/10.1038/srep10091 (link)
+[2]: http://feeds.feedburner.com/~r/srep/rss/current/~4/PDoCMUpubgE (image)

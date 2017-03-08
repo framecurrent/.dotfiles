@@ -1,0 +1,18 @@
+Title: Melt-Processable Dynamic-Covalent Poly(hemiaminal) Organogels as Scaffolds for UV-Induced Polymerization
+Author: 
+Date: Wed, 15 Jul 2015 03:26:07 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fadma.201502033
+
+[image 2][1]
+
+Hemiaminal poly(ethylene glycol) (PEG)-based organogels are formulated in 
+polymerizable solvents. The dynamic-covalent nature of the solvent-H-bonded 
+hemiaminal crosslinks, together with the modification of the crosslinking 
+density of the organogels allows for temperature-dependent viscoelastic 
+control. The shape of uncured gels can be permanently retained by templated 
+UV-curing of the solvent, offering great promise for complex manufacturing, 
+printing, sealants, and materials repair. 
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/adma.201502033/asset/image_m/adma201502033-gra-0001-m.png?v=1&s=02277d5e67abe917fde62c3ecd40efe0a8628d87 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/adma.201502033/asset/image_n/adma201502033-gra-0001.png?v=1&s=1ecb1987d07430952f61532a307b86eb7b186301 (image)

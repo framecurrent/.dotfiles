@@ -1,0 +1,30 @@
+Title: Autoinduced Catalysis and Inverse Equilibrium Isotope Effect in the Frustrated Lewis Pair-Catalyzed Hydrogenation of Imines
+Author: 
+Date: Wed, 15 Apr 2015 16:40:23 +0200
+Link: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fchem.201500805
+
+Abstract
+
+The frustrated Lewis pair (FLP)-catalyzed hydrogenation and deuteration of N-
+benzylidene-tert-butylamine (2) was kinetically investigated by using the three
+boranes B(C[6]F[5])[3] (1), B(2,4,6-F[3]-C[6]H[2])[3] (4), and B(2,6-F[2]-C[6]H[
+3])[3] (5) and the free activation energies for the H[2] activation by FLP were
+determined. Reactions catalyzed by the weaker Lewis acids 4 and 5 displayed 
+autoinductive catalysis arising from a higher free activation energy 
+(2 kcal mol^−1) for the H[2] activation by the imine compared to the amine. 
+Surprisingly, the imine reduction using D[2] proceeded with higher rates. This 
+phenomenon is unprecedented for FLP and resulted from a primary inverse 
+equilibrium isotope effect.
+[image 2: Thumbnail image of graphical abstract][2]
+
+The FLP-catalyzed reaction of N-benzylidene-tert-butylamine with H[2] and D[2] 
+was kinetically investigated. The free activation energy for the H[2] 
+activation by the FLP consisting of imine and a less Lewis-acidic borane is 
+2 kcal mol^−1 higher than for B(C[6]F[5])[3] resulting in autoinduced 
+catalysis. For the first time the free activation enthalpies for the H[2] 
+activation by FLPs were experimentally determined and an inverse kinetic 
+isotope effect was observed.
+
+Links: 
+[1]: http://onlinelibrary.wiley.com/store/10.1002/chem.201500805/asset/image_m/mcontent.gif?v=1&s=0305260ff38d4e52044785002c1d8b6566346d93 (link)
+[2]: http://onlinelibrary.wiley.com/store/10.1002/chem.201500805/asset/image_n/ncontent.gif?v=1&s=8b00ed11396d94bf6b071569646569eec494ecea (image)

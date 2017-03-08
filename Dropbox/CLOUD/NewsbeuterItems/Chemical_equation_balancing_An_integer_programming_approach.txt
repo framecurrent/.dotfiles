@@ -1,0 +1,9 @@
+Title: Chemical equation balancing: An integer programming approach
+Author: 
+Date: Wed, 10 Feb 2016 22:27:16 +0100
+Link: http://www.sciencedirect.com/science/article/pii/S0895717706000367
+
+Comments[1]
+
+Links: 
+[1]: https://news.ycombinator.com/item?id=11076151 (link)

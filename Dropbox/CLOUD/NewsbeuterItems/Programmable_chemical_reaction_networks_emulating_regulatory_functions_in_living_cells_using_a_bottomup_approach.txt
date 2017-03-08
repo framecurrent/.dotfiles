@@ -1,0 +1,17 @@
+Title: Programmable chemical reaction networks: emulating regulatory functions in living cells using a bottom-up approach
+Author: Tom F. A. de Greef
+Date: Tue, 28 Jul 2015 07:18:37 +0200
+Link: http://feeds.rsc.org/~r/rss/CS/~3/NzMYYrg4wwQ/C5CS00361J
+
+[image 1]
+Chem. Soc. Rev., 2015, Advance ArticleDOI: 10.1039/C5CS00361J, Tutorial Review
+Hendrik W. H. van Roekel, Bas J. H. M. Rosier, Lenny H. H. Meijer, Peter A. J. 
+Hilbers, Albert J. Markvoort, Wilhelm T. S. Huck, Tom F. A. de GreefLiving 
+cells are able to produce a wide variety of biological responses when subjected
+to biochemical stimuli.To cite this article before page numbers are assigned, 
+use the DOI form of citation above.The content of this RSS Feed (c) The Royal 
+Society of Chemistry[image 2]
+
+Links: 
+[1]: http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService.svc/ImageService/image/GA?id=C5CS00361J (image)
+[2]: http://feeds.feedburner.com/~r/rss/CS/~4/NzMYYrg4wwQ (image)

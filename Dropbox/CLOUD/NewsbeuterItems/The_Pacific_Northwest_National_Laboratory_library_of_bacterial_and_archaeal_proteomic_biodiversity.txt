@@ -1,0 +1,14 @@
+Title: The Pacific Northwest National Laboratory library of bacterial and archaeal proteomic biodiversity
+Author: 
+Date: Tue, 18 Aug 2015 03:00:00 +0200
+Link: http://feeds.nature.com/~r/sdata/rss/current/~3/kQYqs37PMSc/sdata201541
+
+The Pacific Northwest National Laboratory library of bacterial and archaeal 
+proteomic biodiversity
+
+Scientific Data, Published online: 18 August 2015; doi:10.1038/sdata.2015.41[1]
+[image 2]
+
+Links: 
+[1]: http://www.nature.com/articles/sdata201541 (link)
+[2]: http://feeds.feedburner.com/~r/sdata/rss/current/~4/kQYqs37PMSc (image)

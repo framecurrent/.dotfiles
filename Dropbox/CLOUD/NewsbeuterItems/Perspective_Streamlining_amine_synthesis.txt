@@ -1,0 +1,15 @@
+Title: [Perspective] Streamlining amine synthesis
+Author: Science Magazine (mailto:soleditor@aaas.org)
+Date: Fri, 22 May 2015 03:00:00 +0200
+Link: http://www.sciencemag.org/content/348/6237/863.abstract?rss=1
+
+Amines, a collective name for compounds that contain one or more nitrogen 
+atoms, and their derivatives make up the overwhelming majority of drug 
+molecules and agrochemicals, as well as many compounds that are produced by 
+plants and living organisms (i.e., natural products) (1, 2). Not surprisingly, 
+organic chemists spend a considerable amount of time with the synthesis and 
+late-stage functionalization of amines. On page 886 of this issue, Gui et al. 
+(3) report a highly innovative iron-catalyzed cross-coupling of olefins with 
+nitroarenes, both of which are readily available and inexpensive, to afford 
+bulky secondary arylamines that are either very difficult to obtain or 
+inaccessible with existing methods. Author: László Kürti

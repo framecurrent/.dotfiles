@@ -1,0 +1,16 @@
+Title: Glycofullerenes: Sweet fullerenes vanquish viruses
+Author: 
+Date: Thu, 17 Dec 2015 00:00:00 +0100
+Link: http://dx.doi.org/10.1038/nchem.2422
+
+Nature Chemistry 8, 4 (2016). doi:10.1038/nchem.2422[1]
+
+Author: Sébastien Vidal
+
+Fullerene-based dendritic structures coated with 120 sugars can be made in high
+yields in a relatively short sequence of reactions. The mannosylated compound 
+is shown to inhibit Ebola infection in cells more efficiently than 
+monofullerene-based glycoclusters.
+
+Links: 
+[1]: http://dx.doi.org/10.1038/nchem.2422 (link)
